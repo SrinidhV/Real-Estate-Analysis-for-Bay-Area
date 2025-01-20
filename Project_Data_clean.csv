@@ -1,0 +1,1429 @@
+,City,Zipcode,Price,Beds,Bath,SQFT,School_rating,WalkScore,Bike_Score,TransitScore,Garage_availability,County
+0,Castro Valley,94552,1699000,3,2,2334.0,5.6,0,5,23,Yes,Alameda County
+1,PLEASANTON,94566,1249000,3,2,1614.0,8.0,69,78,33,Yes,Alameda County
+2,Oakland,94611,1288888,5,3,3631.0,5.7,14,10,31,Yes,Alameda County
+3,FREMONT,94539,2680000,4,3,2898.0,8.3,13,33,36,Yes,Alameda County
+4,HAYWARD,94544,458888,1,1,730.0,5.6,70,34,61,Yes,Alameda County
+5,Alameda,94501,749000,1,1,968.0,5.6,85,87,46,Yes,Alameda County
+6,Oakland,94619,799900,3,2,1497.0,1.3,66,36,50,Yes,Alameda County
+7,San Leandro,94577,985000,4,3,1392.0,4.3,65,83,60,Yes,Alameda County
+8,Oakland,94612,760000,3,1,1368.0,5.7,98,95,77,No,Alameda County
+9,Pleasanton,94566,3750000,5,5,4974.0,8.0,15,23,0,Yes,Alameda County
+10,Fremont,94536,1750000,4,2,2052.0,6.7,19,25,25,Yes,Alameda County
+11,Oakland,94611,995000,2,2,1148.0,4.3,97,66,51,Yes,Alameda County
+12,Livermore,94551,1499000,5,3,2576.0,6.7,42,68,41,Yes,Alameda County
+13,LIVERMORE,94550,1150000,4,2,1708.0,6.3,62,61,41,No,Alameda County
+14,Livermore,94550,950000,3,2,1350.0,7.0,52,67,41,Yes,Alameda County
+15,OAKLAND,94611,1350000,5,3,3343.0,5.7,12,11,32,Yes,Alameda County
+16,Hayward,94541,1500000,4,2,2587.0,5.6,10,14,41,No,Alameda County
+17,Newark,94560,1299000,4,2,1886.0,4.0,16,34,41,Yes,Alameda County
+18,Emeryville,94608,460000,1,1,768.0,5.6,79,91,41,Yes,Alameda County
+19,Oakland,94618,1100000,2,1,1552.0,7.0,94,78,64,No,Alameda County
+20,Fremont,94536,1499888,3,2,1610.0,7.7,75,53,42,Yes,Alameda County
+21,Livermore,94551,999000,3,2,1559.0,5.6,58,72,41,Yes,Alameda County
+22,Dublin,94568,1715400,6,5,3300.0,7.3,13,96,41,Yes,Alameda County
+23,Alameda,94502,1080000,3,2,1358.0,8.7,47,52,30,Yes,Alameda County
+24,Oakland,94602,999000,1,1,747.0,4.7,16,9,31,Yes,Alameda County
+25,Oakland,94606,718000,3,2,1791.0,4.0,75,52,58,Yes,Alameda County
+26,Fremont,94539,1999888,4,2,1698.0,9.7,44,49,35,Yes,Alameda County
+27,HAYWARD,94542,2595000,5,4,4668.0,5.6,6,11,14,Yes,Alameda County
+28,Oakland,94610,1249000,3,3,2604.0,6.3,66,56,54,Yes,Alameda County
+29,Fremont,94539,1940908,3,3,3024.0,5.6,15,62,51,Yes,Alameda County
+30,Dublin,94568,1649000,4,3,2240.0,7.7,45,65,41,Yes,Alameda County
+31,Oakland,94602,950000,5,4,3012.0,3.0,85,49,53,No,Alameda County
+32,Hayward,94545,895950,3,2,1148.0,4.3,51,39,41,Yes,Alameda County
+33,Oakland,94610,149500,3,2,3201.0,5.7,74,52,57,No,Alameda County
+34,NEWARK,94560,1279980,4,3,2026.0,5.3,61,46,41,Yes,Alameda County
+35,Hayward,94542,1200000,6,5,3636.0,5.6,34,22,41,Yes,Alameda County
+36,Oakland,94611,1095000,3,2,1656.0,4.3,97,57,54,Yes,Alameda County
+37,Oakland,94607,475000,1,1,732.0,5.7,99,87,88,Yes,Alameda County
+38,UNION CITY,94587,1899000,5,3,2762.0,6.3,18,58,41,Yes,Alameda County
+39,Alameda,94501,1348000,4,3,2510.0,5.6,68,74,58,Yes,Alameda County
+40,Oakland,94602,999000,4,3,2424.0,4.7,47,23,47,Yes,Alameda County
+41,Alameda,94501,1395000,4,2,3418.0,5.6,88,77,49,No,Alameda County
+42,Oakland,94606,500000,3,2,1222.0,4.7,92,92,56,Yes,Alameda County
+43,Piedmont,94611,1088000,2,1,1311.0,5.6,68,53,41,Yes,Alameda County
+44,Livermore,94551,1125000,3,3,1817.0,5.6,7,33,41,Yes,Alameda County
+45,NEWARK,94560,1142000,3,2,1136.0,5.0,82,51,41,Yes,Alameda County
+46,Union City,94587,525000,2,1,945.0,6.0,46,47,41,No,Alameda County
+47,BERKELEY,94703,649000,2,1,825.0,7.4,96,99,69,Yes,Alameda County
+48,Livermore,94551,999800,4,2,1952.0,5.6,79,83,41,Yes,Alameda County
+49,Livermore,94551,1399000,5,3,2312.0,6.7,22,62,41,Yes,Alameda County
+50,Oakland,94605,999000,4,3,2098.0,2.0,47,30,46,Yes,Alameda County
+51,HAYWARD,94544,1795000,3,2,2089.0174545454547,2.0,43,23,50,No,Alameda County
+52,Livermore,94550,2999999,5,5,3655.0,7.3,23,48,41,Yes,Alameda County
+53,Berkeley,94702,799000,3,2,1110.0,7.6,86,97,64,Yes,Alameda County
+54,Oakland,94618,1398000,3,2,2136.0,7.2,14,36,17,Yes,Alameda County
+55,Oakland,94610,1295000,4,2,2207.0,6.3,71,43,47,Yes,Alameda County
+56,Oakland,94605,649950,3,1,1246.0,2.0,44,28,47,Yes,Alameda County
+57,San Leandro,94577,549000,2,1,1108.0,4.0,43,37,27,No,Alameda County
+58,Oakland,94602,1149000,4,3,2202.0,4.7,57,43,42,Yes,Alameda County
+59,Oakland,94611,899000,2,2,975.0,6.0,5,21,15,No,Alameda County
+60,Castro Valley,94546,1288000,4,3,2200.0,5.6,32,15,18,Yes,Alameda County
+61,Oakland,94602,1295000,5,4,2287.0,5.7,40,22,29,Yes,Alameda County
+62,EMERYVILLE,94608,939000,2,2,1823.0,5.6,92,95,41,Yes,Alameda County
+63,Alameda,94501,789000,2,1,797.0,8.7,97,89,50,No,Alameda County
+64,Dublin,94568,442000,1,1,840.0,8.8,57,60,41,Yes,Alameda County
+65,Oakland,94606,1150000,3,2,5176.0,5.7,87,54,60,Yes,Alameda County
+66,Oakland,94605,549000,2,1,1029.0,2.2,70,58,58,Yes,Alameda County
+67,Oakland,94611,3000000,4,4,2652.0,6.0,26,18,29,No,Alameda County
+68,Livermore,94551,836000,3,2,1385.0,6.0,12,43,41,Yes,Alameda County
+69,San Lorenzo,94580,698000,3,1,986.0,5.7,59,53,36,No,Alameda County
+70,Emeryville,94608,899000,2,1,1144.0,5.6,79,91,41,Yes,Alameda County
+71,Oakland,94619,499000,3,1,983.0,3.3,86,69,51,Yes,Alameda County
+72,Berkeley,94703,550000,1,1,658.0,7.4,96,99,69,No,Alameda County
+73,Oakland,94610,1389000,3,2,2232.0,6.3,34,34,44,No,Alameda County
+74,Hayward,94541,949000,3,2,1916.0,5.6,19,15,41,Yes,Alameda County
+75,Oakland,94601,580000,3,2,1050.0,2.0,74,78,44,Yes,Alameda County
+76,Oakland,94607,199000,3,2,2430.0,2.3,63,81,60,No,Alameda County
+77,Oakland,94601,510000,2,1,976.0,2.0,86,66,52,Yes,Alameda County
+78,Oakland,94607,680000,2,2,876.0,3.7,98,89,87,Yes,Alameda County
+79,Fremont,94539,2034440,3,3,2860.0,5.6,15,62,51,Yes,Alameda County
+80,Oakland,94611,1195000,3,2,2050.0,6.0,10,20,14,Yes,Alameda County
+81,Hayward,94541,599000,3,2,1117.0,5.6,56,56,41,Yes,Alameda County
+82,Oakland,94602,895000,4,3,1595.0,4.7,48,25,46,No,Alameda County
+83,Berkeley,94705,1600000,3,3,2850.0,7.0,96,93,55,Yes,Alameda County
+84,Pleasanton,94588,2168900,4,3,2960.0,8.3,34,40,26,Yes,Alameda County
+85,Castro Valley,94546,839900,3,1,966.0,5.6,55,40,28,Yes,Alameda County
+86,San Lorenzo,94580,698000,3,2,1550.0,5.7,36,43,26,Yes,Alameda County
+87,San Lorenzo,94580,730000,3,1,1134.0,5.7,64,56,36,Yes,Alameda County
+88,San Lorenzo,94580,659000,4,2,1450.0,5.7,61,54,32,Yes,Alameda County
+89,Oakland,94607,470000,2,1,1140.0,5.7,100,86,89,Yes,Alameda County
+90,Oakland,94605,280000,2,1,1047.0,2.0,72,71,59,Yes,Alameda County
+91,Oakland,94605,1375000,3,3,2364.0,4.7,18,13,18,Yes,Alameda County
+92,Livermore,94550,1399000,5,2,2068.0,6.3,29,65,41,Yes,Alameda County
+93,Berkeley,94704,649000,1,1,516.0,7.0,95,95,62,Yes,Alameda County
+94,Hayward,94544,900000,3,1,1221.0,5.0,46,49,33,Yes,Alameda County
+95,Alameda,94501,1350000,4,3,2205.0,5.6,65,67,43,Yes,Alameda County
+96,Fremont,94538,1122164,2,2,1335.0,7.8,25,63,50,Yes,Alameda County
+97,Emeryville,94608,525000,1,1,644.0,5.6,72,93,41,Yes,Alameda County
+98,Dublin,94568,2750000,4,4,3547.0,8.8,0,49,41,Yes,Alameda County
+99,Berkeley,94702,860000,2,1,1227.0,7.6,92,92,56,Yes,Alameda County
+100,Fremont,94536,799888,2,1,1016.0,6.7,29,47,27,Yes,Alameda County
+101,FREMONT,94538,1399000,3,2,1120.0,7.7,63,63,32,Yes,Alameda County
+102,Alameda,94501,1349000,3,2,2057.0,5.6,77,80,46,No,Alameda County
+103,Fremont,94555,640000,2,2,963.0,7.7,71,60,34,No,Alameda County
+104,Union City,94587,285000,2,2,1440.0,6.0,26,39,41,Yes,Alameda County
+105,Oakland,94607,849000,3,2,2393.0,2.3,79,95,66,No,Alameda County
+106,San Leandro,94578,1049000,3,3,2120.0,2.7,33,18,35,Yes,Alameda County
+107,Pleasanton,94566,1598000,4,2,2124.0,8.7,55,76,20,Yes,Alameda County
+108,FREMONT,94538,475000,1,1,693.0,6.7,41,72,58,Yes,Alameda County
+109,San Leandro,94578,509000,2,2,958.0,4.0,89,56,55,Yes,Alameda County
+110,Berkeley,94703,1225000,3,3,1841.0,7.0,91,95,66,No,Alameda County
+111,Hayward,94541,899000,3,2,1211.0,5.6,23,18,41,Yes,Alameda County
+112,Oakland,94605,725000,3,1,1326.0,2.0,67,48,55,Yes,Alameda County
+113,Fremont,94555,1180000,3,3,1387.0,8.0,30,56,29,Yes,Alameda County
+114,Oakland,94609,1750000,4,2,3780.0,5.7,95,98,71,Yes,Alameda County
+115,Alameda,94501,799000,2,2,1330.0,5.6,70,81,47,Yes,Alameda County
+116,Oakland,94605,999000,3,1,1332.0,3.0,31,36,42,Yes,Alameda County
+117,Oakland,94611,995000,3,3,2957.0,6.0,13,13,12,Yes,Alameda County
+118,San Lorenzo,94580,849000,3,2,1238.0,5.7,45,53,28,Yes,Alameda County
+119,Union City,94587,1155000,3,2,1431.0,5.0,40,42,41,Yes,Alameda County
+120,Oakland,94605,599000,3,1,1316.0,2.0,79,62,57,No,Alameda County
+121,Oakland,94608,689000,1,1,1539.0,4.3,94,98,70,Yes,Alameda County
+122,Fremont,94536,598500,2,2,823.0,6.7,67,50,42,No,Alameda County
+123,Livermore,94551,1100000,3,2,1303.0,6.7,9,61,41,Yes,Alameda County
+124,Pleasanton,94588,1298000,3,2,1482.0,8.0,63,76,43,Yes,Alameda County
+125,Oakland,94610,349000,1,1,565.0,4.3,90,61,53,Yes,Alameda County
+126,Castro Valley,94552,2150000,6,3,2584.0,5.6,28,15,21,Yes,Alameda County
+127,Hayward,94545,349000,1,1,608.0,4.3,69,68,43,No,Alameda County
+128,FREMONT,94538,785000,2,2,1280.0,7.0,73,57,37,No,Alameda County
+129,Fremont,94539,3550000,4,3,3442.0,5.6,0,6,0,Yes,Alameda County
+130,FREMONT,94536,1100000,3,2,1530.0,7.0,50,55,42,Yes,Alameda County
+131,Livermore,94550,1149000,4,3,1944.0,6.0,64,75,41,Yes,Alameda County
+132,Oakland,94611,85000,3,2,6896.0,5.7,6,7,25,No,Alameda County
+133,Oakland,94618,1180000,4,3,2541.0,7.0,62,63,55,Yes,Alameda County
+134,Berkeley,94705,1495000,4,2,2673.0,7.0,95,85,53,No,Alameda County
+135,Oakland,94602,529000,1,1,649.0,3.0,68,65,53,Yes,Alameda County
+136,Pleasanton,94588,1175000,3,2,1473.0,8.5,38,61,32,Yes,Alameda County
+137,Oakland,94605,1350000,4,2,2903.0,2.7,12,7,31,Yes,Alameda County
+138,Oakland,94602,988000,3,1,1848.0,6.0,82,64,56,Yes,Alameda County
+139,Piedmont,94610,1798000,3,2,2054.0,5.6,48,31,41,Yes,Alameda County
+140,Oakland,94602,1549000,3,3,2400.0,5.7,38,24,37,Yes,Alameda County
+141,Oakland,94605,495000,3,1,844.0,2.0,57,25,52,Yes,Alameda County
+142,Oakland,94605,950000,3,1,1236.0,5.6,46,18,49,Yes,Alameda County
+143,San Lorenzo,94580,850000,3,2,1288.0,5.7,29,40,25,Yes,Alameda County
+144,San Leandro,94577,849000,3,1,1104.0,4.3,69,77,52,Yes,Alameda County
+145,Oakland,94612,599000,1,1,900.0,5.7,95,89,84,Yes,Alameda County
+146,Emeryville,94608,625000,1,1,1277.0,5.6,92,95,41,Yes,Alameda County
+147,Piedmont,94611,3798000,4,5,5137.0,5.6,53,22,41,Yes,Alameda County
+148,San Leandro,94578,725000,2,1,966.0,4.0,78,54,46,Yes,Alameda County
+149,Hayward,94541,715000,2,1,987.0,5.6,71,56,42,Yes,Alameda County
+150,BERKELEY,94704,1099888,6,2,2163.0,7.4,90,94,67,No,Alameda County
+151,Oakland,94609,1095000,4,4,1786.0,5.7,89,99,60,Yes,Alameda County
+152,Oakland,94619,999000,3,2,2069.0,3.3,61,48,51,Yes,Alameda County
+153,Hayward,94542,1299000,4,2,2060.0,5.6,17,11,18,Yes,Alameda County
+154,San Lorenzo,94580,865000,3,2,1422.0,5.7,19,37,24,Yes,Alameda County
+155,San Leandro,94579,628000,2,1,880.0,5.7,77,57,42,Yes,Alameda County
+156,Oakland,94610,1495000,4,4,3044.0,4.3,93,63,52,Yes,Alameda County
+157,Oakland,94603,349000,3,1,1216.0,2.2,72,65,57,No,Alameda County
+158,Oakland,94611,1595000,4,3,2898.0,6.0,5,20,7,Yes,Alameda County
+159,Oakland,94621,1299000,12,8,4356.0,2.4,73,62,73,No,Alameda County
+160,Walnut Creek,94595,450000,2,1,1054.0,8.0,12,128,0,No,Contra Costa County
+161,Danville,94526,1789950,5,3,2232.0,9.0,27,36,41,Yes,Contra Costa County
+162,San Pablo,94806,75000,2,2,1040.0,3.0,45,28,41,No,Contra Costa County
+163,Concord,94521,569000,3,2,1576.0,6.0,51,60,28,Yes,Contra Costa County
+164,Concord,94521,740000,3,2,1292.0,6.8,21,3,24,Yes,Contra Costa County
+165,Antioch,94509,375000,3,1,1255.0,2.3,81,65,35,Yes,Contra Costa County
+166,Concord,94518,998950,4,2,1432.0,3.0,40,45,27,Yes,Contra Costa County
+167,Danville,94526,695000,2,1,1090.0,9.0,38,67,41,No,Contra Costa County
+168,San Pablo,94806,799000,3,1,1812.0,2.7,23,18,41,Yes,Contra Costa County
+169,Walnut Creek,94595,395000,2,1,1054.0,8.0,8,10,18,No,Contra Costa County
+170,Walnut Creek,94596,1599000,3,2,2089.0174545454547,7.3,12,7,24,No,Contra Costa County
+171,Walnut Creek,94596,2275000,3,2,2437.0,7.7,1,6,8,Yes,Contra Costa County
+172,Walnut Creek,94595,1138000,3,2,1737.0,8.0,6,4,7,Yes,Contra Costa County
+173,Antioch,94531,679900,3,3,2066.0,3.3,16,13,25,Yes,Contra Costa County
+174,Pinole,94564,820000,3,2,1050.0,3.0,62,27,41,Yes,Contra Costa County
+175,Walnut Creek,94595,788000,2,2,1281.0,8.0,23,17,11,No,Contra Costa County
+176,Martinez,94553,795000,3,2,1871.0,7.0,27,45,41,Yes,Contra Costa County
+177,El Cerrito,94530,1195000,3,2,2415.0,6.0,16,14,28,Yes,Contra Costa County
+178,Martinez,94553,899000,3,2,1530.0,7.0,34,15,41,Yes,Contra Costa County
+179,Clayton,94517,1299000,5,3,2843.0,6.7,8,1,41,Yes,Contra Costa County
+180,Walnut Creek,94595,699000,2,1,1058.0,8.0,56,16,19,No,Contra Costa County
+181,Oakley,94561,850000,3,2,1176.0,5.6,0,38,41,Yes,Contra Costa County
+182,El Cerrito,94530,1188000,5,3,2543.0,6.0,24,20,30,Yes,Contra Costa County
+183,Walnut Creek,94595,1260000,2,2,1637.0,8.0,21,17,0,Yes,Contra Costa County
+184,San Pablo,94806,68000,3,2,3900.0,2.7,23,18,41,No,Contra Costa County
+185,Walnut Creek,94595,399000,2,1,1054.0,8.0,19,1,0,No,Contra Costa County
+186,RICHMOND,94804,690000,2,2,1571.0,3.0,64,59,38,Yes,Contra Costa County
+187,RICHMOND,94804,385000,1,1,533.0,3.0,42,61,28,No,Contra Costa County
+188,Concord,94519,619000,4,2,1536.0,3.0,67,55,21,Yes,Contra Costa County
+189,El Sobrante,94803,549000,3,1,1348.0,2.7,60,30,41,No,Contra Costa County
+190,El Cerrito,94530,925000,2,1,1021.0,5.3,76,83,57,Yes,Contra Costa County
+191,WALNUT CREEK,94597,839000,3,3,2347.0,6.3,67,73,42,Yes,Contra Costa County
+192,Antioch,94531,900000,5,4,3613.0,3.0,4,24,18,Yes,Contra Costa County
+193,Danville,94506,2298000,3,2,3309.0,9.3,2,16,41,Yes,Contra Costa County
+194,Antioch,94509,624950,3,2,1735.0,4.0,37,37,30,Yes,Contra Costa County
+195,SAN RAMON,94583,834950,2,2,960.0,8.3,56,70,41,Yes,Contra Costa County
+196,Bay Point,94565,748000,4,2,1672.0,2.3,12,10,41,Yes,Contra Costa County
+197,Walnut Creek,94596,1700000,4,3,2089.0,7.7,13,9,41,Yes,Contra Costa County
+198,Concord,94520,299000,4,2,1124.0,2.7,63,76,32,Yes,Contra Costa County
+199,Concord,94518,995000,3,2,1290.0,3.0,35,17,21,Yes,Contra Costa County
+200,Oakley,94561,749000,5,3,3290.0,4.7,24,54,41,Yes,Contra Costa County
+201,BETHEL ISLAND,94511,1850000,4,5,3851.0,5.6,11,33,41,Yes,Contra Costa County
+202,Brentwood,94513,780000,3,3,2018.0,7.0,58,59,41,Yes,Contra Costa County
+203,Concord,94518,725000,3,1,1035.0,4.3,74,60,37,Yes,Contra Costa County
+204,Brentwood,94513,950000,4,3,2652.0,7.7,18,27,41,Yes,Contra Costa County
+205,LAFAYETTE,94549,3299000,4,4,3444.0,9.3,78,48,41,Yes,Contra Costa County
+206,Martinez,94553,1349000,5,3,2392.0,6.3,15,22,41,Yes,Contra Costa County
+207,Concord,94518,998000,3,2,1852.0,3.0,16,38,22,Yes,Contra Costa County
+208,Concord,94519,630000,3,1,1199.0,2.7,57,68,38,Yes,Contra Costa County
+209,Clayton,94517,1425000,4,3,3199.0,6.7,28,13,41,Yes,Contra Costa County
+210,Orinda,94563,1888000,3,2,2256.0,9.0,5,19,41,Yes,Contra Costa County
+211,Danville,94526,1270000,3,2,1551.0,8.7,3,16,41,Yes,Contra Costa County
+212,Concord,94520,450000,2,2,1137.0,2.0,86,62,47,Yes,Contra Costa County
+213,San Ramon,94583,1398000,3,2,1760.0,8.3,23,49,41,Yes,Contra Costa County
+214,Concord,94520,1500000,12,2,3776.0,2.7,80,60,33,No,Contra Costa County
+215,Antioch,94531,339500,2,1,808.0,3.0,36,33,28,No,Contra Costa County
+216,Pittsburg,94565,659900,4,2,1698.0,3.3,32,14,41,Yes,Contra Costa County
+217,Antioch,94509,419500,3,2,1650.0,2.0,83,63,31,Yes,Contra Costa County
+218,El Cerrito,94530,1079000,4,3,2280.0,6.0,52,70,61,Yes,Contra Costa County
+219,Discovery Bay,94505,789000,3,2,1869.0,6.7,6,36,41,Yes,Contra Costa County
+220,Walnut Creek,94598,3750000,6,5,5654.0,8.3,18,28,41,Yes,Contra Costa County
+221,Oakland,94611,1095000,3,2,1414.0,6.0,2,18,7,Yes,Contra Costa County
+222,Concord,94519,429900,2,1,979.0,5.3,32,49,22,No,Contra Costa County
+223,Richmond,94801,450000,2,2,604.0,1.3,82,65,58,Yes,Contra Costa County
+224,Concord,94519,699000,3,2,1294.0,4.0,38,71,21,Yes,Contra Costa County
+225,Danville,94506,2049000,5,3,3491.0,9.3,29,24,41,Yes,Contra Costa County
+226,Antioch,94531,525000,3,2,1761.0,3.0,20,32,26,Yes,Contra Costa County
+227,Concord,94518,989000,3,2,1883.0,3.0,20,49,22,Yes,Contra Costa County
+228,CONCORD,94520,330000,2,1,884.0,2.0,80,65,52,Yes,Contra Costa County
+229,San Ramon,94582,1595000,3,2,1675.0,9.0,22,19,41,Yes,Contra Costa County
+230,Martinez,94553,1100000,5,4,2710.0,6.7,27,37,41,Yes,Contra Costa County
+231,Lafayette,94549,2995000,4,3,2537.0,9.3,1,5,41,No,Contra Costa County
+232,Danville,94526,1298000,3,2,1608.0,8.7,9,12,41,Yes,Contra Costa County
+233,Martinez,94553,799000,3,2,1686.0,7.0,67,49,41,Yes,Contra Costa County
+234,Oakley,94561,595000,3,2,1468.0,5.0,45,62,41,Yes,Contra Costa County
+235,Crockett,94525,549500,2,1,1087.0,4.0,43,18,41,Yes,Contra Costa County
+236,Brentwood,94513,675000,2,2,1945.0,7.7,8,39,41,Yes,Contra Costa County
+237,San Ramon,94583,3195000,5,5,5035.0,9.0,0,49,41,Yes,Contra Costa County
+238,El Sobrante,94803,899000,3,3,2449.0,3.7,7,5,41,Yes,Contra Costa County
+239,Concord,94521,969000,3,2,1459.0,6.8,65,23,29,Yes,Contra Costa County
+240,Brentwood,94513,1248000,4,3,3593.0,7.0,57,61,41,Yes,Contra Costa County
+241,Pittsburg,94565,589900,4,2,1349.0,4.0,32,52,41,Yes,Contra Costa County
+242,Walnut Creek,94595,579000,2,1,1054.0,8.0,30,15,16,No,Contra Costa County
+243,Oakley,94561,530000,3,2,1136.0,4.3,24,52,41,Yes,Contra Costa County
+244,Richmond,94803,949000,4,2,2380.0,3.3,15,9,26,Yes,Contra Costa County
+245,Brentwood,94513,1099900,5,3,3622.0,7.7,7,1,41,Yes,Contra Costa County
+246,Moraga,94556,2299000,4,3,3055.0,9.3,5,3,41,Yes,Contra Costa County
+247,Antioch,94531,850000,4,3,3311.0,3.0,36,27,28,Yes,Contra Costa County
+248,OAKLEY,94561,1399000,9,5,1836.0,4.7,30,36,41,Yes,Contra Costa County
+249,Danville,94526,2995000,4,3,2823.0,9.0,50,22,41,Yes,Contra Costa County
+250,Pacheco,94553,185000,2,2,960.0,6.7,35,51,41,No,Contra Costa County
+251,Moraga,94556,1699000,5,2,2452.0,9.3,3,15,41,Yes,Contra Costa County
+252,Discovery Bay,94505,799000,4,3,2503.0,5.3,3,30,41,Yes,Contra Costa County
+253,Bay Point,94565,229950,2,1,720.0,2.7,34,31,41,No,Contra Costa County
+254,Walnut Creek,94597,899000,4,3,2367.0,6.3,67,73,42,Yes,Contra Costa County
+255,Richmond,94806,1108079,4,2,1910.0,3.0,48,26,33,Yes,Contra Costa County
+256,San Ramon,94582,2225000,5,4,3207.0,8.7,25,39,41,Yes,Contra Costa County
+257,Danville,94506,2499000,4,2,2756.0,9.0,0,22,41,Yes,Contra Costa County
+258,Concord,94518,1099000,3,2,1979.0,3.0,10,36,22,Yes,Contra Costa County
+259,Martinez,94553,529000,2,2,1152.0,6.7,11,35,41,No,Contra Costa County
+260,Martinez,94553,720000,4,3,1774.0,6.0,65,28,41,Yes,Contra Costa County
+261,Walnut Creek,94597,1799000,5,4,2850.0,7.7,32,17,44,Yes,Contra Costa County
+262,DISCOVERY BAY,94505,795000,5,3,3092.0,5.3,2,35,41,Yes,Contra Costa County
+263,Pittsburg,94565,458000,3,1,1033.0,4.3,45,57,41,Yes,Contra Costa County
+264,Richmond,94804,390000,1,1,732.0,3.0,58,66,29,No,Contra Costa County
+265,Walnut Creek,94595,324995,1,1,729.0,8.0,10,49,0,No,Contra Costa County
+266,Oakley,94561,949000,5,4,2980.0,4.7,12,28,41,Yes,Contra Costa County
+267,Danville,94526,2995000,5,4,3121.0,9.0,17,62,41,Yes,Contra Costa County
+268,Oakley,94561,599000,3,2,2065.0,4.0,43,41,41,Yes,Contra Costa County
+269,Alamo,94507,2450000,5,4,3139.0,7.3,3,26,41,Yes,Contra Costa County
+270,Lafayette,94549,1500000,3,2,1513.0,9.0,2,21,41,Yes,Contra Costa County
+271,El Sobrante,94803,669000,4,1,1487.0,2.7,35,15,41,No,Contra Costa County
+272,Martinez,94553,888777,4,2,1944.0,7.0,29,38,41,Yes,Contra Costa County
+273,Danville,94506,1989000,4,3,3349.0,9.3,27,14,41,Yes,Contra Costa County
+274,Oakley,94561,589800,3,2,1521.0,4.3,24,56,41,Yes,Contra Costa County
+275,Pinole,94564,785000,3,2,1621.0,3.0,9,5,41,Yes,Contra Costa County
+276,Danville,94526,1049950,3,2,1214.0,8.7,32,25,41,Yes,Contra Costa County
+277,Danville,94506,2150000,5,3,2961.0,8.7,38,36,41,Yes,Contra Costa County
+278,Pleasant Hill,94523,1250000,3,2,2340.0,6.3,18,9,41,Yes,Contra Costa County
+279,Concord,94521,1000000,3,2,1726.0,8.0,17,21,15,Yes,Contra Costa County
+280,Walnut Creek,94595,1100000,2,2,1237.0,8.0,35,33,19,Yes,Contra Costa County
+281,Oakley,94561,439000,2,1,1189.0,5.6,0,37,41,Yes,Contra Costa County
+282,Martinez,94553,950000,5,2,2174.0,6.3,18,33,41,Yes,Contra Costa County
+283,Walnut Creek,94598,799950,3,2,1568.0,4.0,44,68,41,Yes,Contra Costa County
+284,Antioch,94509,599000,3,2,1524.0,2.0,55,64,32,Yes,Contra Costa County
+285,Walnut Creek,94597,1050000,3,2,1571.0,7.7,67,60,48,Yes,Contra Costa County
+286,Danville,94526,1998000,4,2,3043.0,9.3,24,48,41,Yes,Contra Costa County
+287,Oakley,94561,124900,2,1,800.0,4.0,63,43,41,No,Contra Costa County
+288,Antioch,94509,525000,3,1,1021.0,2.0,61,51,41,Yes,Contra Costa County
+289,CROCKETT,94525,899999,4,3,2176.0,4.0,39,9,41,Yes,Contra Costa County
+290,Pittsburg,94565,595000,3,2,1611.0,3.3,20,41,41,Yes,Contra Costa County
+291,Pleasant Hill,94523,824950,3,1,1042.0,5.7,78,66,35,Yes,Contra Costa County
+292,Pittsburg,94565,399000,3,1,955.0,3.0,52,47,41,Yes,Contra Costa County
+293,Richmond,94804,689000,3,1,1096.0,1.7,69,56,44,Yes,Contra Costa County
+294,Brentwood,94513,619000,2,2,1741.0,7.7,28,52,41,Yes,Contra Costa County
+295,Brentwood,94513,189900,2,2,1344.0,5.7,80,69,41,No,Contra Costa County
+296,Antioch,94509,589800,4,2,1801.0,2.3,57,46,29,Yes,Contra Costa County
+297,Antioch,94509,375000,3,2,1302.0,2.7,40,59,33,Yes,Contra Costa County
+298,Concord,94520,645000,2,2,1301.0,3.0,63,61,28,Yes,Contra Costa County
+299,Richmond,94804,749000,3,3,1712.0,3.0,42,65,29,Yes,Contra Costa County
+300,Pittsburg,94565,535000,3,2,1385.0,3.3,35,21,41,Yes,Contra Costa County
+301,Walnut Creek,94595,1999999,4,4,3380.0,8.0,25,10,41,Yes,Contra Costa County
+302,Bay Point,94565,399000,2,1,742.0,2.3,13,24,41,Yes,Contra Costa County
+303,Antioch,94531,789000,4,3,3002.0,3.0,4,24,18,Yes,Contra Costa County
+304,Bay Point,94565,750000,4,2,2038.0,3.7,8,14,41,Yes,Contra Costa County
+305,Concord,94521,275000,1,1,646.0,4.0,62,59,31,No,Contra Costa County
+306,Walnut Creek,94595,845000,2,2,1403.0,8.0,4,2,0,Yes,Contra Costa County
+307,Concord,94521,475000,2,1,1093.0,6.0,54,47,29,No,Contra Costa County
+308,Concord,94520,1500000,12,2,3776.0,2.7,80,60,33,No,Contra Costa County
+309,Concord,94520,384900,2,1,975.0,2.3,49,61,22,Yes,Contra Costa County
+310,Oakley,94561,569000,3,2,1411.0,4.7,29,57,41,Yes,Contra Costa County
+311,Richmond,94804,499888,4,1,1451.0,1.3,71,83,51,Yes,Contra Costa County
+312,Danville,94506,1799000,3,2,2061.0,9.3,0,16,41,Yes,Contra Costa County
+313,Concord,94519,885000,3,2,1476.0,4.0,39,72,27,Yes,Contra Costa County
+314,Oakley,94561,594800,3,2,1468.0,5.0,48,66,41,Yes,Contra Costa County
+315,Oakley,94561,728000,4,3,2252.0,5.6,5,44,41,Yes,Contra Costa County
+316,Oakland,94611,1595000,4,3,2898.0,6.0,5,20,7,Yes,Alameda County
+317,Brentwood,94513,860000,5,3,2837.0,5.7,27,42,41,Yes,Contra Costa County
+318,Pleasant Hill,94523,799000,3,1,1042.0,5.7,83,74,32,Yes,Contra Costa County
+319,Concord,94520,715000,4,2,1396.0,2.3,24,20,49,Yes,Contra Costa County
+320,San Rafael,94903,375000,1,1,772.0,5.5,31,7,37,Yes,Marin County
+321,Mill Valley,94941,1999000,3,2,2034.0,8.8,35,50,41,Yes,Marin County
+322,Novato,94949,1000000,3,2,1723.0,5.6,6,27,29,Yes,Marin County
+323,Tiburon,94920,3700000,3,3,2814.0,5.6,35,41,41,Yes,Marin County
+324,Sausalito,94965,1695000,2,2,1024.0,7.0,56,27,41,Yes,Marin County
+325,Sausalito,94965,5998000,4,3,3539.0,7.0,38,36,41,Yes,Marin County
+326,Dillon Beach,94929,795000,1,1,489.0,5.6,13,3,41,No,Marin County
+327,Sausalito,94965,17750000,5,4,7400.0,7.0,86,44,41,Yes,Marin County
+328,Novato,94949,1750000,5,3,2934.0,5.0,49,56,37,Yes,Marin County
+329,San Rafael,94903,1395000,3,2,1555.0,5.5,42,22,21,Yes,Marin County
+330,Point Reyes Station,94956,7300000,4,4,2089.0174545454547,5.6,8,27,41,Yes,Marin County
+331,Novato,94947,1090000,4,2,1687.0,7.3,16,8,19,Yes,Marin County
+332,Inverness,94937,2950000,2,1,2089.0174545454547,5.6,27,23,41,No,Marin County
+333,San Rafael,94903,579000,2,1,987.0,5.5,60,40,35,No,Marin County
+334,San Rafael,94903,1890000,4,2,1827.0,5.5,37,41,38,Yes,Marin County
+335,San Rafael,94903,292000,2,2,1096.0,5.5,40,26,40,Yes,Marin County
+336,Mill Valley,94941,1395000,2,1,1210.0,9.0,88,97,41,Yes,Marin County
+337,Ross,94957,5595000,4,4,2715.0,9.0,58,56,41,Yes,Marin County
+338,Tiburon,94920,7200000,4,2,3878.0,5.6,4,19,41,Yes,Marin County
+339,San Rafael,94903,770000,3,2,1397.0,4.5,42,49,44,Yes,Marin County
+340,Novato,94949,998000,3,2,1658.0,5.7,29,44,30,Yes,Marin County
+341,Novato,94947,1395000,4,3,2212.0,7.3,42,48,22,Yes,Marin County
+342,Corte Madera,94925,1599000,3,2,2100.0,8.0,12,33,41,Yes,Marin County
+343,San Rafael,94901,1395000,4,3,2049.0,4.8,82,43,51,Yes,Marin County
+344,Out Of Area,94941,525000,1,1,2089.0174545454547,5.6,93,55,41,No,Marin County
+345,Greenbrae,94904,1775000,2,2,1886.0,5.6,65,72,41,Yes,Marin County
+346,San Rafael,94903,365000,1,1,772.0,5.5,37,13,39,Yes,Marin County
+347,San Rafael,94901,1850000,4,4,2708.0,4.4,30,41,41,Yes,Marin County
+348,Novato,94945,995000,5,3,1832.0,5.6,26,29,42,Yes,Marin County
+349,Mill Valley,94941,3750000,4,3,3469.0,8.8,80,47,41,Yes,Marin County
+350,San Rafael,94901,3295000,5,4,3192.0,5.5,81,42,31,Yes,Marin County
+351,Kentfield,94904,3495000,4,4,2892.0,5.6,32,23,41,Yes,Marin County
+352,Novato,94947,599000,3,1,1323.0,5.6,18,47,28,No,Marin County
+353,Bolinas,94924,45000,3,2,3999.0,5.6,8,21,41,No,Marin County
+354,Novato,94949,993020,4,3,1737.0,5.0,57,67,40,Yes,Marin County
+355,Mill Valley,94941,1699000,3,2,2400.0,9.0,37,27,41,Yes,Marin County
+356,Novato,94945,1245000,3,2,1708.0,6.7,42,39,21,Yes,Marin County
+357,Mill Valley,94941,1995000,3,2,2071.0,8.2,33,78,41,Yes,Marin County
+358,San Rafael,94901,2294000,4,3,3024.0,5.5,42,36,32,Yes,Marin County
+359,Novato,94945,629000,2,1,1328.0,7.0,36,35,43,Yes,Marin County
+360,San Rafael,94903,1199000,4,3,2345.0,4.5,4,9,41,Yes,Marin County
+361,Mill Valley,94941,995000,3,2,8250.0,9.0,73,91,41,No,Marin County
+362,Mill Valley,94941,1499000,3,3,2113.0,8.8,7,30,41,No,Marin County
+363,Larkspur,94939,695000,2,1,815.0,8.0,64,82,41,No,Marin County
+364,San Rafael,94901,6995000,8,7,6834.0,4.4,8,35,41,Yes,Marin County
+365,Larkspur,94939,3675000,4,2,3074.0,8.0,84,72,41,Yes,Marin County
+366,Novato,94947,510000,2,1,1020.0,5.6,50,29,39,No,Marin County
+367,Novato,94949,1549000,4,3,2554.0,5.7,29,44,30,Yes,Marin County
+368,San Rafael,94903,875000,2,2,1285.0,5.5,37,13,39,No,Marin County
+369,Inverness,94937,2695000,2,2,1401.0,5.6,14,17,41,Yes,Marin County
+370,Mill Valley,94941,4499000,5,4,2672.0,9.0,88,97,41,Yes,Marin County
+371,Novato,94947,925000,3,1,1172.0,7.3,50,50,22,Yes,Marin County
+372,Sausalito,94965,1495000,2,2,1157.0,7.0,77,45,41,No,Marin County
+373,Ross,94957,4995000,4,3,2747.0,9.0,76,67,41,Yes,Marin County
+374,Tiburon,94920,7477000,5,4,5670.0,8.2,11,23,41,Yes,Marin County
+375,San Anselmo,94960,3750000,4,3,3382.0,8.3,3,33,41,Yes,Marin County
+376,Novato,94947,399000,2,1,980.0,5.6,85,66,41,Yes,Marin County
+377,Tiburon,94920,3995000,4,3,3562.0,5.6,0,33,41,Yes,Marin County
+378,San Rafael,94901,1245000,3,2,1446.0,5.2,7,2,0,Yes,Marin County
+379,Corte Madera,94925,1377000,3,1,1225.0,8.0,55,76,41,Yes,Marin County
+380,San Rafael,94903,1849000,4,2,2221.0,5.5,67,52,26,Yes,Marin County
+381,Tiburon,94920,3388000,3,2,2510.0,5.6,66,49,41,No,Marin County
+382,Mill Valley,94941,1750000,3,3,2223.0,8.5,65,72,41,Yes,Marin County
+383,Tiburon,94920,10777000,5,6,6880.0,5.6,8,28,41,Yes,Marin County
+384,San Anselmo,94960,1295000,3,2,2089.0174545454547,8.0,19,31,41,Yes,Marin County
+385,Tiburon,94920,3750000,4,3,3325.0,5.6,0,31,41,Yes,Marin County
+386,Mill Valley,94941,2995000,4,3,2880.0,8.8,17,15,41,Yes,Marin County
+387,San Rafael,94903,325000,2,2,1300.0,5.5,40,26,40,Yes,Marin County
+388,Greenbrae,94904,1399000,3,2,1829.0,5.6,58,64,41,Yes,Marin County
+389,San Rafael,94903,1295000,3,2,1470.0,5.5,32,38,41,Yes,Marin County
+390,San Rafael,94901,1150000,3,2,2022.0,5.0,81,61,53,Yes,Marin County
+391,Mill Valley,94941,3695000,4,3,3976.0,9.0,15,34,41,Yes,Marin County
+392,Greenbrae,94904,1395000,2,2,1545.0,5.6,62,80,41,No,Marin County
+393,Mill Valley,94941,989000,3,1,1006.0,9.0,71,52,41,No,Marin County
+394,Bolinas,94924,135000,3,2,2089.0174545454547,5.6,10,29,41,No,Marin County
+395,Kentfield,94904,3195000,4,2,2794.0,7.7,20,29,41,Yes,Marin County
+396,Mill Valley,94941,3875000,6,5,4158.0,8.5,16,42,41,Yes,Marin County
+397,San Rafael,94901,1299000,4,2,2324.0,4.8,74,37,45,Yes,Marin County
+398,San Rafael,94903,1055000,3,2,1904.0,4.5,42,49,44,Yes,Marin County
+399,Novato,94945,2349500,4,3,4777.0,7.0,20,2,0,Yes,Marin County
+400,Novato,94949,1599000,4,2,3034.0,5.0,16,33,24,Yes,Marin County
+401,San Rafael,94901,6200000,5,6,6295.0,4.8,3,46,41,Yes,Marin County
+402,Mill Valley,94941,3088000,4,2,3298.0,9.0,17,26,41,Yes,Marin County
+403,Kentfield,94904,1295000,3,2,1639.0,7.7,57,73,41,No,Marin County
+404,Novato,94949,2295000,3,2,2006.0,5.0,7,33,41,Yes,Marin County
+405,San Rafael,94901,699000,3,2,9392.0,5.0,67,51,53,No,Marin County
+406,Novato,94949,2195000,4,2,2813.0,5.0,5,30,41,Yes,Marin County
+407,Corte Madera,94925,1700000,3,2,2375.0,8.0,35,59,41,Yes,Marin County
+408,Novato,94949,795000,2,2,1674.0,5.0,14,11,37,Yes,Marin County
+409,Mill Valley,94941,1650000,3,2,2132.0,8.7,67,34,41,Yes,Marin County
+410,San Rafael,94903,529000,2,1,1112.0,5.5,55,39,41,No,Marin County
+411,Novato,94949,475000,3,2,1742.0,5.0,57,64,40,No,Marin County
+412,Fairfax,94930,1225000,3,2,1144.0,8.0,33,38,41,No,Marin County
+413,Novato,94945,836900,3,3,1410.0,6.7,5,24,31,Yes,Marin County
+414,Novato,94945,350000,1,1,624.0,5.6,36,62,41,No,Marin County
+415,Greenbrae (larkspur),94904,2275000,4,2,2673.0,5.6,62,71,41,Yes,Marin County
+416,Tiburon,94920,2195000,3,3,2724.0,5.6,58,55,41,Yes,Marin County
+417,Out Of Area,94941,2500000,4,4,2089.0174545454547,7.0,44,53,41,No,Marin County
+418,San Rafael,94901,1495000,3,2,2656.0,4.8,67,43,41,No,Marin County
+419,San Rafael,94903,485000,2,2,1580.0,5.5,40,26,40,Yes,Marin County
+420,San Anselmo,94960,1698000,3,2,1772.0,7.7,28,46,41,Yes,Marin County
+421,Novato,94945,899000,3,2,1249.0,7.0,21,22,38,Yes,Marin County
+422,San Anselmo,94960,2225000,4,2,2288.0,8.3,2,29,41,Yes,Marin County
+423,San Rafael,94903,1998000,4,3,2040.0,4.5,21,15,41,Yes,Marin County
+424,Sausalito,94965,2400000,2,2,1870.0,7.0,86,44,41,Yes,Marin County
+425,San Rafael,94903,265000,2,1,1096.0,5.5,40,26,40,Yes,Marin County
+426,Novato,94945,1700000,3,3,2800.0,7.0,1,5,41,Yes,Marin County
+427,Mill Valley,94941,3800000,4,3,4341.0,8.7,29,28,41,Yes,Marin County
+428,San Rafael,94901,1195000,4,2,1600.0,5.0,81,61,53,Yes,Marin County
+429,San Rafael,94903,2600000,3,4,2575.0,4.5,7,8,41,Yes,Marin County
+430,San Anselmo,94960,1915000,4,2,1951.0,8.0,44,34,41,Yes,Marin County
+431,Novato,94945,1750000,5,4,3000.0,7.0,82,70,43,No,Marin County
+432,Stinson Beach,94970,2199000,1,1,640.0,5.6,43,33,41,Yes,Marin County
+433,Inverness,94937,1100000,2,1,1002.0,5.6,5,7,41,Yes,Marin County
+434,Novato,94947,1450888,6,4,3040.0,7.3,27,44,22,Yes,Marin County
+435,Novato,94947,1399000,4,3,2386.0,7.3,9,2,3,Yes,Marin County
+436,Fairfax,94930,1547000,4,3,1756.0,8.0,48,37,41,Yes,Marin County
+437,Mill Valley,94941,1390000,3,2,1384.0,8.8,16,18,41,Yes,Marin County
+438,Stinson Beach,94970,7695000,3,2,1688.0,5.6,9,45,41,Yes,Marin County
+439,San Rafael,94903,489000,2,1,949.0,5.5,37,31,41,No,Marin County
+440,San Rafael,94901,1949000,3,2,2100.0,4.6,12,11,0,No,Marin County
+441,Mill Valley,94941,11200000,6,5,5100.0,8.8,60,36,41,Yes,Marin County
+442,San Anselmo,94960,1395000,3,2,1448.0,7.7,23,39,41,Yes,Marin County
+443,Belvedere,94920,5995000,2,2,2372.0,5.6,73,80,41,No,Marin County
+444,Novato,94945,786800,3,3,1410.0,6.7,5,24,31,Yes,Marin County
+445,Novato,94949,525000,3,2,1264.0,5.0,57,69,41,Yes,Marin County
+446,Novato,94947,3198000,5,3,4308.0,7.3,14,1,41,Yes,Marin County
+447,San Rafael,94903,1500000,3,2,1392.0,5.5,71,62,28,Yes,Marin County
+448,Novato,94945,1499999,6,4,2125.0,6.7,71,67,33,Yes,Marin County
+449,San Rafael,94901,2150000,5,3,3685.0,4.8,36,33,37,Yes,Marin County
+450,San Anselmo,94960,1300000,3,3,2370.0,7.7,77,79,41,Yes,Marin County
+451,Novato,94949,1225000,4,2,2285.0,5.0,12,7,36,Yes,Marin County
+452,Novato,94947,1175000,3,2,1824.0,7.3,46,51,22,Yes,Marin County
+453,Novato,94947,899000,3,2,1550.0,5.6,28,18,30,Yes,Marin County
+454,Novato,94949,225000,2,2,1152.0,5.0,62,73,41,No,Marin County
+455,Mill Valley,94941,3495000,5,5,3555.0,8.8,69,42,41,Yes,Marin County
+456,Larkspur,94939,4995000,6,6,6572.0,8.0,25,73,41,Yes,Marin County
+457,Mill Valley,94941,1895000,2,2,1301.0,8.2,46,50,41,Yes,Marin County
+458,Inverness,94937,2400000,3,2,2089.0174545454547,5.6,14,18,41,No,Marin County
+459,Corte Madera,94925,2250000,6,4,2298.0,8.0,57,64,41,Yes,Marin County
+460,Out Of Area,94940,730000,2,2,1193.0,5.6,0,11,41,No,Marin County
+461,San Rafael,94903,3295000,5,4,3564.0,5.0,37,25,45,No,Marin County
+462,San Rafael,94901,1595000,3,3,1980.0,4.5,45,64,38,Yes,Marin County
+463,San Rafael,94901,1649000,3,2,2298.0,5.0,53,64,44,Yes,Marin County
+464,Novato,94945,1249000,4,2,1521.0,6.7,50,35,22,Yes,Marin County
+465,Novato,94949,775000,2,2,1674.0,5.0,19,22,39,Yes,Marin County
+466,San Rafael,94903,499000,2,1,675.0,4.5,67,41,41,Yes,Marin County
+467,Tiburon,94920,3250000,3,3,2068.0,5.6,18,45,41,Yes,Marin County
+468,San Rafael,94903,876000,3,2,1568.0,4.5,44,18,41,Yes,Marin County
+469,Tiburon,94920,4200000,6,3,6552.0,5.6,45,51,41,No,Marin County
+470,Tiburon,94920,4177000,4,4,3745.0,5.6,27,20,41,Yes,Marin County
+471,Fairfax,94930,995000,3,3,1888.0,7.7,9,28,41,Yes,Marin County
+472,Corte Madera,94925,1195000,2,2,1239.0,8.0,52,43,41,Yes,Marin County
+473,Mill Valley,94941,3295000,4,2,4190.0,8.7,8,39,41,Yes,Marin County
+474,Point Reyes Station,94956,1128000,2,2,880.0,5.6,52,50,41,Yes,Marin County
+475,Novato,94947,2395000,4,5,5145.0,7.3,16,1,41,Yes,Marin County
+476,Corte Madera,94925,2695000,5,3,2815.0,8.0,32,39,41,Yes,Marin County
+477,Novato,94949,490000,2,1,672.0,5.0,59,63,40,No,Marin County
+478,San Rafael,94903,1829000,4,4,2856.0,4.5,48,41,44,Yes,Marin County
+479,Novato,94947,765000,3,2,1740.0,5.6,28,20,30,Yes,Marin County
+480,Calistoga,94515,1499000,3,2,1892.0,5.6,34,28,41,Yes,Napa County
+481,Calistoga,94515,2322000,4,2,2304.0,5.6,4,16,41,Yes,Napa County
+482,Napa,94558,699000,4,2,1395.0,4.0,48,47,25,Yes,Napa County
+483,Napa,94558,854000,4,2,1654.0,3.3,45,73,28,Yes,Napa County
+484,Napa,94559,1195000,3,2,1226.0,3.3,36,52,20,No,Napa County
+485,Napa,94558,743000,3,2,1225.0,3.3,84,86,30,Yes,Napa County
+486,Napa,94558,495000,2,1,1200.0,4.0,76,62,26,Yes,Napa County
+487,Napa,94559,685000,3,2,1287.0,4.0,58,47,26,Yes,Napa County
+488,Calistoga,94515,1200000,3,2,2089.0174545454547,5.6,21,13,41,No,Napa County
+489,Napa,94558,279000,3,2,2089.0174545454547,5.6,0,49,41,No,Napa County
+490,Napa,94558,9800000,6,6,5531.0,5.0,8,49,41,Yes,Napa County
+491,Napa,94558,700000,2,2,1405.0,4.7,48,67,24,Yes,Napa County
+492,Napa,94558,39000,3,2,2089.0174545454547,5.0,0,49,41,No,Napa County
+493,NAPA,94558,899000,3,2,1635.0,4.3,44,46,18,Yes,Napa County
+494,Napa,94558,899000,2,2,1360.0,4.0,32,30,24,Yes,Napa County
+495,Napa,94558,265000,2,2,1248.0,4.7,11,47,22,No,Napa County
+496,Napa,94558,1250000,3,2,1893.0,3.3,61,78,30,Yes,Napa County
+497,St. Helena,94574,475000,2,2,1584.0,5.6,28,69,41,No,Napa County
+498,Yountville,94599,5150000,5,4,3130.0,4.3,59,66,41,Yes,Napa County
+499,Napa,94558,499000,2,1,994.0,4.0,60,47,23,Yes,Napa County
+500,St. Helena,94574,4950000,3,3,3377.0,5.6,15,28,41,Yes,Napa County
+501,Napa,94558,3150000,3,3,3116.0,5.0,1,49,41,Yes,Napa County
+502,Napa,94559,4695000,2,2,1725.0,4.3,9,29,0,No,Napa County
+503,Napa,94558,1098000,3,2,1649.0,4.3,19,16,16,Yes,Napa County
+504,Calistoga,94515,7950000,3,2,2089.0174545454547,5.6,0,49,41,No,Napa County
+505,Yountville,94599,1795000,3,2,1204.0,4.3,60,57,41,Yes,Napa County
+506,Napa,94558,865000,3,2,1450.0,3.3,42,71,27,Yes,Napa County
+507,Napa,94558,1249000,4,2,2004.0,4.3,9,45,41,Yes,Napa County
+508,Calistoga,94515,6950000,7,7,5900.0,5.6,15,8,41,Yes,Napa County
+509,NAPA,94559,675000,2,2,1220.0,3.7,86,71,33,Yes,Napa County
+510,Calistoga,94515,13000000,5,5,6172.0,5.6,1,30,41,Yes,Napa County
+511,Calistoga,94515,149900,2,2,1440.0,5.6,50,61,41,No,Napa County
+512,Napa,94558,849000,3,2,1245.0,4.7,47,65,29,Yes,Napa County
+513,Napa,94558,1585000,4,3,3054.0,4.7,56,55,29,Yes,Napa County
+514,Napa,94558,155000,2,2,1334.0,3.3,53,64,34,Yes,Napa County
+515,American Canyon,94503,639990,3,2,1583.0,5.6,44,45,41,Yes,Napa County
+516,Napa,94558,510000,2,2,1212.0,4.0,50,49,25,Yes,Napa County
+517,Napa,94558,899000,4,3,1564.0,4.0,44,34,24,Yes,Napa County
+518,Napa,94558,60000,3,2,2089.0174545454547,5.0,0,49,41,No,Napa County
+519,Calistoga,94515,7900000,3,4,3796.0,5.6,0,49,41,No,Napa County
+520,Calistoga,94515,4980000,7,7,5379.0,5.6,0,49,41,Yes,Napa County
+521,Yountville,94599,1190000,3,2,1352.0,4.3,47,49,41,Yes,Napa County
+522,Napa,94559,350000,2,2,1750.0,4.3,22,30,41,No,Napa County
+523,Napa,94558,1250000,3,2,1849.0,5.6,6,22,41,Yes,Napa County
+524,St. Helena,94574,3500000,3,2,2089.0174545454547,5.6,4,49,41,No,Napa County
+525,Napa,94558,945000,3,2,1713.0,4.7,72,64,31,Yes,Napa County
+526,Napa,94559,2900000,3,2,2089.0174545454547,4.3,8,26,41,No,Napa County
+527,St. Helena,94574,4750000,4,3,3690.0,5.6,38,59,41,No,Napa County
+528,Napa,94559,699000,3,2,1083.0,4.0,47,44,26,Yes,Napa County
+529,Napa,94558,40000,3,2,2089.0174545454547,5.0,0,2,41,No,Napa County
+530,Vallejo,94589,519000,3,2,1324.0,5.6,52,15,27,Yes,Solano County
+531,Napa,94558,639900,3,2,1747.0,5.0,2,1,41,Yes,Napa County
+532,Napa,94558,149000,3,2,9744.0,5.0,0,2,41,No,Napa County
+533,Napa,94558,699000,4,2,1600.0,4.0,83,88,27,No,Napa County
+534,American Canyon,94503,865000,5,3,2811.0,5.7,54,54,41,Yes,Napa County
+535,Napa,94558,769000,3,2,1684.0,3.3,56,74,29,Yes,Napa County
+536,St. Helena,94574,1870000,3,2,2000.0,5.6,42,73,41,Yes,Napa County
+537,Calistoga,94515,4500000,3,2,2089.0174545454547,5.6,3,48,41,No,Napa County
+538,Napa,94558,1050000,4,3,1687.0,4.0,56,54,26,Yes,Napa County
+539,Napa,94558,1030000,4,2,2414.0,4.7,64,65,31,Yes,Napa County
+540,Napa,94559,1625000,5,3,3328.0,3.3,20,17,27,Yes,Napa County
+541,Napa,94558,1030000,3,2,2682.0,4.7,53,58,29,Yes,Napa County
+542,Napa,94559,698000,3,2,1722.0,4.0,40,38,25,Yes,Napa County
+543,Angwin,94508,1699900,5,4,4838.0,5.6,2,20,41,Yes,Napa County
+544,Napa,94558,689000,3,2,1042.0,5.0,61,46,41,Yes,Napa County
+545,Napa,94558,1325000,4,2,2144.0,4.3,47,13,19,Yes,Napa County
+546,Calistoga,94515,600000,2,1,1138.0,5.6,66,79,41,No,Napa County
+547,St. Helena,94574,1395000,3,2,2411.0,5.6,6,28,41,Yes,Napa County
+548,Calistoga,94515,1490000,7,8,8300.0,5.6,13,31,41,Yes,Napa County
+549,Napa,94558,499500,2,1,958.0,4.7,72,63,32,No,Napa County
+550,Napa,94558,1195000,4,2,2159.0,4.3,1,15,0,Yes,Napa County
+551,Pope Valley,94567,45000,3,2,2089.0174545454547,5.6,0,49,41,No,Napa County
+552,Napa,94558,1895000,2,1,2299.0,5.6,0,49,41,Yes,Napa County
+553,Napa,94558,660000,4,3,1530.0,5.0,5,2,41,Yes,Napa County
+554,Vallejo,94589,530000,4,2,1676.0,6.3,42,41,41,Yes,Solano County
+555,Napa,94558,535000,2,2,1212.0,4.0,50,49,25,Yes,Napa County
+556,Napa,94558,49000,3,2,2089.0174545454547,5.0,0,2,41,No,Napa County
+557,American Canyon,94503,830000,5,3,3074.0,5.7,25,15,41,Yes,Napa County
+558,Napa,94558,625000,3,2,3311.0,5.0,1,49,41,No,Napa County
+559,Napa,94558,649999,3,2,1238.0,4.0,55,59,27,Yes,Napa County
+560,Yountville,94599,2700000,3,2,2490.0,4.3,70,65,41,Yes,Napa County
+561,St. Helena,94574,5750000,5,4,4100.0,5.6,15,28,41,Yes,Napa County
+562,American Canyon,94503,949000,5,3,3681.0,5.7,11,34,41,Yes,Napa County
+563,American Canyon,94503,739000,3,2,1464.0,5.3,22,19,41,Yes,Napa County
+564,American Canyon,94503,165000,2,2,1080.0,5.7,48,56,41,No,Napa County
+565,Napa,94558,300000,2,2,1040.0,4.7,11,53,22,No,Napa County
+566,St. Helena,94574,395000,2,2,1440.0,5.6,20,65,41,No,Napa County
+567,Napa,94558,274900,3,2,979.0,4.7,11,53,22,No,Napa County
+568,St. Helena,94574,5950000,3,2,2336.0,5.6,7,26,41,No,Napa County
+569,St. Helena,94574,2500000,3,2,2109.0,5.6,71,92,41,Yes,Napa County
+570,Napa,94558,349900,2,2,1248.0,4.7,22,57,23,No,Napa County
+571,St. Helena,94574,2200000,4,3,2136.0,5.6,35,75,41,Yes,Napa County
+572,St. Helena,94574,415000,2,2,1584.0,5.6,28,61,41,No,Napa County
+573,Napa,94558,22000000,7,8,7766.0,4.7,1,9,41,Yes,Napa County
+574,Napa,94558,579000,2,2,1376.0,4.0,39,36,24,Yes,Napa County
+575,American Canyon,94503,125000,2,1,672.0,5.7,48,56,41,No,Napa County
+576,Napa,94558,1695000,4,3,3455.0,4.3,47,50,28,Yes,Napa County
+577,Napa,94558,3899000,3,2,4182.0,5.0,1,2,11,Yes,Napa County
+578,Napa,94559,950000,3,2,1315.0,4.3,67,74,36,Yes,Napa County
+579,Napa,94558,859000,3,2,1557.0,4.7,44,44,29,Yes,Napa County
+580,Napa,94558,760000,3,2,1261.0,4.7,60,73,32,Yes,Napa County
+581,Napa,94558,27000,3,2,2089.0174545454547,5.0,6,2,41,No,Napa County
+582,Napa,94559,1295000,5,3,3072.0,4.3,0,30,41,Yes,Napa County
+583,Napa,94559,1410000,3,2,2201.0,3.3,29,15,22,Yes,Napa County
+584,Napa,94559,1180000,3,2,1483.0,4.0,74,87,26,Yes,Napa County
+585,Napa,94559,599000,3,2,1308.0,3.7,70,64,28,Yes,Napa County
+586,Napa,94558,1335000,4,3,2050.0,4.3,6,23,0,Yes,Napa County
+587,Napa,94558,779000,4,2,1484.0,3.3,56,73,30,Yes,Napa County
+588,St. Helena,94574,2499000,3,3,1691.0,5.6,2,4,41,No,Napa County
+589,Napa,94558,1595000,3,3,2168.0,5.0,11,20,41,Yes,Napa County
+590,Napa,94558,750000,3,2,2089.0174545454547,4.3,28,48,0,No,Napa County
+591,Napa,94558,685000,3,2,1724.0,4.3,41,28,20,No,Napa County
+592,Yountville,94599,2649500,4,2,2762.0,4.3,67,57,41,Yes,Napa County
+593,Napa,94558,50000,3,2,2089.0174545454547,5.6,0,4,41,No,Napa County
+594,Napa,94559,745000,3,2,1287.0,4.0,86,89,28,No,Napa County
+595,Napa,94558,859000,4,2,1611.0,5.0,39,34,27,Yes,Napa County
+596,Napa,94558,1125000,3,2,1928.0,4.0,39,14,23,Yes,Napa County
+597,Napa,94559,849000,4,2,1728.0,3.7,70,64,28,Yes,Napa County
+598,Napa,94558,1279999,3,3,1526.0,4.7,35,43,22,Yes,Napa County
+599,Napa,94558,829000,3,2,1354.0,4.0,46,38,24,Yes,Napa County
+600,Napa,94559,4200000,2,2,1720.0,4.3,10,38,0,No,Napa County
+601,American Canyon,94503,649000,3,2,1032.0,6.3,26,55,41,Yes,Napa County
+602,St. Helena,94574,1725000,3,2,972.0,5.6,83,92,41,No,Napa County
+603,Calistoga,94515,98700,2,2,1152.0,5.6,42,58,41,Yes,Napa County
+604,Napa,94558,7800000,5,6,5165.0,5.0,21,19,41,Yes,Napa County
+605,Napa,94558,598000,2,1,1302.0,4.0,47,33,23,No,Napa County
+606,Napa,94558,1349000,4,2,2101.0,4.7,28,48,22,Yes,Napa County
+607,Napa,94558,699999,3,2,1622.0,3.3,62,73,30,Yes,Napa County
+608,Napa,94559,1075000,4,2,1720.0,3.7,52,61,28,Yes,Napa County
+609,Yountville,94599,379000,3,2,1620.0,4.3,56,59,41,No,Napa County
+610,St. Helena,94574,3950000,4,4,3012.0,5.6,54,85,41,Yes,Napa County
+611,Vallejo,94589,375250,3,2,1099.0,5.6,67,53,28,Yes,Solano County
+612,Napa,94558,719000,3,2,1420.0,4.7,58,52,32,Yes,Napa County
+613,Calistoga,94515,1125000,3,2,2089.0174545454547,5.6,14,30,41,No,Napa County
+614,Napa,94559,899000,2,2,754.0,4.0,96,81,34,Yes,Napa County
+615,American Canyon,94503,999000,6,3,3862.0,5.7,37,31,41,Yes,Napa County
+616,Calistoga,94515,1999500,5,2,2214.0,5.6,16,26,41,Yes,Napa County
+617,Napa,94558,569000,3,2,1200.0,4.3,41,13,15,Yes,Napa County
+618,Napa,94558,355000,2,2,1440.0,4.7,11,53,22,Yes,Napa County
+619,St. Helena,94574,5500000,2,4,2758.0,5.6,13,26,41,Yes,Napa County
+620,Napa,94558,82000,3,2,2089.0174545454547,5.0,0,2,41,No,Napa County
+621,Napa,94558,849000,2,2,1310.0,4.0,32,30,24,Yes,Napa County
+622,American Canyon,94503,954000,6,3,3164.0,5.7,21,32,41,Yes,Napa County
+623,Oakville,94558,615000,3,2,2089.0174545454547,5.6,0,2,41,No,Napa County
+624,St. Helena,94574,265000,2,2,1536.0,5.6,13,58,41,No,Napa County
+625,Napa,94558,22000000,6,6,7154.0,4.3,0,49,41,Yes,Napa County
+626,St. Helena,94574,1395000,2,2,1511.0,5.6,6,2,41,Yes,Napa County
+627,St. Helena,94574,15000000,6,7,8500.0,5.6,0,49,41,Yes,Napa County
+628,Napa,94558,799000,3,2,1392.0,4.3,46,68,26,Yes,Napa County
+629,Napa,94558,549000,3,1,1404.0,5.6,8,24,41,Yes,Napa County
+630,Napa,94558,2495000,4,2,2886.0,5.0,5,22,41,Yes,Napa County
+631,St. Helena,94574,339000,2,2,1344.0,5.6,28,69,41,No,Napa County
+632,Napa,94559,850000,3,2,1100.0,3.3,37,52,22,Yes,Napa County
+633,Yountville,94599,2995000,3,2,1980.0,4.3,53,53,41,Yes,Napa County
+634,Napa,94558,1679000,4,3,2878.0,4.3,21,56,22,Yes,Napa County
+635,St. Helena,94574,19950000,5,6,8573.0,5.6,1,2,41,Yes,Napa County
+636,Napa,94558,2700000,3,3,3976.0,5.0,1,49,41,Yes,Napa County
+637,Napa,94558,225000,3,2,2089.0174545454547,5.0,0,2,41,No,Napa County
+638,Yountville,94599,291000,2,2,1423.0,4.3,48,63,41,No,Napa County
+639,Napa,94558,3200000,3,4,4000.0,5.0,3,7,41,Yes,Napa County
+640,San Francisco,94132,1399000,3,2,2133.0,7.0,84,49,70,Yes,San Francisco County
+641,San Francisco,94102,400000,3,1,399.0,5.6,100,93,100,Yes,San Francisco County
+642,San Francisco,94123,2249000,3,2,2252.0,6.0,92,91,64,Yes,San Francisco County
+643,San Francisco,94103,16000000,3,2,57448.0,2.0,99,97,100,No,San Francisco County
+644,San Francisco,94105,1295000,2,2,1530.0,4.0,99,82,100,No,San Francisco County
+645,SAN FRANCISCO,94117,3250000,6,6,5218.0,5.6,97,73,75,Yes,San Francisco County
+646,SAN FRANCISCO,94124,575000,2,2,805.0,5.6,89,67,72,Yes,San Francisco County
+647,SAN FRANCISCO,94115,1799000,3,2,2508.0,7.0,97,78,71,No,San Francisco County
+648,San Francisco,94124,949000,4,2,1546.0,3.8,46,40,60,Yes,San Francisco County
+649,SAN FRANCISCO,94109,898000,2,2,1154.0,6.5,99,79,97,Yes,San Francisco County
+650,San Francisco,94109,599000,1,1,616.0,5.6,99,58,100,No,San Francisco County
+651,San Francisco,94115,869000,1,1,829.0,6.3,99,88,77,Yes,San Francisco County
+652,San Francisco,94114,885000,1,1,2089.0174545454547,5.6,91,64,79,Yes,San Francisco County
+653,San Francisco,94105,3295000,2,2,2635.0,4.0,95,73,100,No,San Francisco County
+654,San Francisco,94103,1195000,2,2,2089.0174545454547,5.6,99,92,100,No,San Francisco County
+655,San Francisco,94121,2995000,4,5,2089.0174545454547,7.7,88,70,70,Yes,San Francisco County
+656,San Francisco,94116,1989000,3,3,1838.0,8.0,88,58,73,Yes,San Francisco County
+657,San Francisco,94110,899000,2,1,1250.0,4.0,99,99,91,Yes,San Francisco County
+658,San Francisco,94121,1095000,3,1,1204.0,7.7,88,68,68,Yes,San Francisco County
+659,San Francisco,94134,1200000,2,1,1248.0,4.2,81,73,69,Yes,San Francisco County
+660,San Francisco,94114,2750000,3,2,6167.0,5.6,99,93,90,No,San Francisco County
+661,San Francisco,94103,860000,1,1,748.0,2.0,99,97,100,Yes,San Francisco County
+662,San Francisco,94122,1795000,4,2,2919.0,5.6,96,77,68,Yes,San Francisco County
+663,San Francisco,94102,525000,1,1,724.0,6.5,99,99,100,No,San Francisco County
+664,SAN FRANCISCO,94117,949000,2,1,952.0,5.6,99,92,96,No,San Francisco County
+665,San Francisco,94112,998000,3,2,1370.0,4.3,71,39,85,Yes,San Francisco County
+666,San Francisco,94122,1990000,4,2,2572.0,5.6,82,73,60,Yes,San Francisco County
+667,San Francisco,94131,1325000,2,1,1101.0,5.6,93,62,71,Yes,San Francisco County
+668,San Francisco,94116,2195000,3,2,2030.0,8.5,61,77,55,Yes,San Francisco County
+669,SAN FRANCISCO,94110,1500000,4,3,1949.0,5.6,94,85,80,Yes,San Francisco County
+670,San Francisco,94109,1499000,4,2,2488.0,6.5,99,81,99,Yes,San Francisco County
+671,San Francisco,94122,1275000,2,1,1265.0,5.6,88,70,58,Yes,San Francisco County
+672,San Francisco,94114,1725000,2,2,1622.0,5.6,99,78,88,Yes,San Francisco County
+673,San Francisco,94107,799000,1,1,761.0,5.6,91,85,71,No,San Francisco County
+674,San Francisco,94110,1195000,3,2,2089.0174545454547,5.6,96,70,76,No,San Francisco County
+675,San Francisco,94117,2399000,4,3,2369.0,5.6,95,67,65,No,San Francisco County
+676,San Francisco,94127,2195000,4,2,2173.0,7.5,82,65,74,No,San Francisco County
+677,San Francisco,94123,1049000,1,1,901.0,6.5,89,91,63,Yes,San Francisco County
+678,San Francisco,94111,575000,3,1,623.0,5.6,91,64,79,Yes,San Francisco County
+679,San Francisco,94114,2195000,3,1,1550.0,5.6,94,64,76,No,San Francisco County
+680,San Francisco,94110,1325000,3,2,1809.0,5.6,96,92,86,Yes,San Francisco County
+681,San Francisco,94115,995000,3,1,1235.0,8.0,96,81,75,No,San Francisco County
+682,San Francisco,94127,2395000,5,3,2465.0,7.5,88,71,72,No,San Francisco County
+683,San Francisco,94112,1595000,3,2,1880.0,5.6,86,73,84,Yes,San Francisco County
+684,San Francisco,94105,1318000,1,1,972.0,4.0,95,57,100,Yes,San Francisco County
+685,San Francisco,94122,1095000,2,2,1700.0,5.6,91,79,64,Yes,San Francisco County
+686,San Francisco,94107,3775000,3,2,9573.0,5.6,97,90,100,No,San Francisco County
+687,San Francisco,94110,1079000,2,1,1100.0,3.2,99,95,90,No,San Francisco County
+688,San Francisco,94123,2949000,2,1,2089.0174545454547,6.5,87,65,71,No,San Francisco County
+689,San Francisco,94118,1455187,3,2,2130.0,5.6,91,97,71,Yes,San Francisco County
+690,San Francisco,94109,4500000,3,2,18750.0,5.6,99,91,100,Yes,San Francisco County
+691,San Francisco,94109,1465000,2,2,1519.0,5.6,97,72,81,Yes,San Francisco County
+692,San Francisco,94127,1595000,3,2,1670.0,6.0,79,57,71,Yes,San Francisco County
+693,San Francisco,94102,789900,1,1,573.0,4.0,99,99,100,Yes,San Francisco County
+694,San Francisco,94134,799000,5,3,2370.0,5.6,49,29,62,Yes,San Francisco County
+695,San Francisco,94109,978000,1,1,755.0,5.6,100,79,85,No,San Francisco County
+696,San Francisco,94118,11750000,5,5,6315.0,8.3,94,75,69,Yes,San Francisco County
+697,San Francisco,94107,1099000,2,2,1078.0,5.6,91,85,71,No,San Francisco County
+698,San Francisco,94102,925000,2,2,967.0,5.6,100,93,100,Yes,San Francisco County
+699,San Francisco,94123,2185000,4,2,2665.0,6.5,98,96,65,Yes,San Francisco County
+700,San Francisco,94116,1100000,2,1,1125.0,5.6,86,63,60,No,San Francisco County
+701,San Francisco,94114,3895000,5,4,3872.0,5.6,96,65,64,Yes,San Francisco County
+702,San Francisco,94105,361677,2,2,1089.0,4.0,99,86,100,No,San Francisco County
+703,San Francisco,94127,1195000,3,1,1325.0,5.6,49,50,65,Yes,San Francisco County
+704,San Francisco,94110,715000,2,1,730.0,5.6,91,85,81,No,San Francisco County
+705,San Francisco,94123,7750000,3,3,2089.0174545454547,6.0,99,57,78,No,San Francisco County
+706,San Francisco,94105,899000,2,1,823.0,4.0,96,80,100,No,San Francisco County
+707,San Francisco,94122,1588000,2,1,750.0,5.6,98,80,69,No,San Francisco County
+708,San Francisco,94103,699000,2,1,715.0,5.6,99,99,100,No,San Francisco County
+709,San Francisco,94105,1041250,1,1,880.0,4.0,96,80,100,Yes,San Francisco County
+710,San Francisco,94112,2149000,6,2,2710.0,7.5,85,60,75,Yes,San Francisco County
+711,San Francisco,94109,1399000,2,1,1450.0,5.6,99,60,100,Yes,San Francisco County
+712,San Francisco,94110,2500000,1,1,3830.0,5.6,98,100,88,No,San Francisco County
+713,San Francisco,94123,6500000,4,3,4554.0,8.5,83,64,71,Yes,San Francisco County
+714,San Francisco,94112,699000,3,1,875.0,5.6,72,39,84,Yes,San Francisco County
+715,San Francisco,94102,2495000,3,4,3060.0,4.0,98,79,95,Yes,San Francisco County
+716,San Francisco,94107,1825000,3,2,3307.0,5.6,98,88,100,No,San Francisco County
+717,San Francisco,94112,649000,1,1,751.0,5.6,56,44,69,No,San Francisco County
+718,San Francisco,94122,1799000,3,2,2004.0,7.5,80,87,55,Yes,San Francisco County
+719,San Francisco,94114,12500000,5,4,4200.0,3.2,95,66,73,Yes,San Francisco County
+720,San Francisco,94102,625000,1,1,613.0,5.6,100,93,100,Yes,San Francisco County
+721,San Francisco,94105,1025000,2,2,1162.0,5.6,97,77,100,Yes,San Francisco County
+722,SAN FRANCISCO,94116,3299950,4,4,2741.0,5.6,69,45,69,Yes,San Francisco County
+723,San Francisco,94109,2995000,4,3,2365.0,5.6,94,73,80,Yes,San Francisco County
+724,San Francisco,94122,1495000,2,2,1425.0,5.6,70,54,63,Yes,San Francisco County
+725,San Francisco,94122,1050000,2,1,1161.0,5.6,86,58,68,Yes,San Francisco County
+726,San Francisco,94109,706130,3,2,1198.0,5.6,100,79,85,No,San Francisco County
+727,San Francisco,94112,1098000,3,2,2070.0,5.6,84,82,81,Yes,San Francisco County
+728,San Francisco,94109,1998000,7,4,3560.0,5.6,98,68,83,Yes,San Francisco County
+729,San Francisco,94109,868000,1,1,755.0,5.6,100,79,85,No,San Francisco County
+730,San Francisco,94102,510000,3,1,526.0,5.6,100,93,100,Yes,San Francisco County
+731,San Francisco,94103,1295000,2,2,1363.0,2.0,99,89,100,Yes,San Francisco County
+732,San Francisco,94110,1449000,3,1,1400.0,5.6,91,70,81,No,San Francisco County
+733,San Francisco,94114,5250000,3,2,7932.0,5.6,99,93,90,No,San Francisco County
+734,SAN FRANCISCO,94103,948888,2,2,1075.0,4.0,98,99,100,Yes,San Francisco County
+735,San Francisco,94121,1795000,2,2,1360.0,7.7,95,69,69,Yes,San Francisco County
+736,San Francisco,94115,599000,1,1,475.0,6.3,98,71,77,No,San Francisco County
+737,San Francisco,94131,989000,4,2,1368.0,5.6,78,66,81,No,San Francisco County
+738,SAN FRANCISCO,94122,1298000,3,1,1750.0,7.7,87,89,62,Yes,San Francisco County
+739,San Francisco,94116,1200000,3,2,1805.0,7.7,83,57,65,Yes,San Francisco County
+740,San Francisco,94109,995000,2,2,1075.0,5.6,100,79,85,Yes,San Francisco County
+741,San Francisco,94102,1950000,3,2,2516.0,5.6,99,81,100,No,San Francisco County
+742,San Francisco,94118,1343249,3,2,2245.0,5.6,91,97,71,Yes,San Francisco County
+743,SAN FRANCISCO,94107,819000,1,1,822.0,5.6,94,90,87,Yes,San Francisco County
+744,San Francisco,94115,1095000,3,2,1243.0,8.0,97,81,76,Yes,San Francisco County
+745,San Francisco,94116,1250000,3,1,1790.0,7.8,84,66,59,Yes,San Francisco County
+746,San Francisco,94112,400000,3,2,2796.0,5.6,67,59,71,No,San Francisco County
+747,San Francisco,94110,2950000,7,4,4652.0,5.6,99,98,86,Yes,San Francisco County
+748,San Francisco,94110,2949000,3,2,2390.0,5.6,95,65,76,Yes,San Francisco County
+749,SAN FRANCISCO,94102,750000,1,1,714.0,4.0,99,98,99,No,San Francisco County
+750,San Francisco,94117,4185000,4,4,3345.0,5.6,97,74,77,Yes,San Francisco County
+751,San Francisco,94110,1795000,2,2,1554.0,5.6,93,68,83,Yes,San Francisco County
+752,San Francisco,94132,1325000,3,1,1605.0,8.3,81,45,73,Yes,San Francisco County
+753,San Francisco,94103,1850000,2,2,1510.0,5.6,99,87,100,No,San Francisco County
+754,San Francisco,94107,1595000,3,2,1530.0,5.6,87,64,69,No,San Francisco County
+755,San Francisco,94127,899000,4,1,1470.0,5.6,64,54,63,Yes,San Francisco County
+756,San Francisco,94105,8650000,3,3,2351.0,4.0,96,80,100,Yes,San Francisco County
+757,San Francisco,94114,2450000,3,2,2254.0,5.6,96,76,76,Yes,San Francisco County
+758,San Francisco,94110,1269800,3,2,1430.0,5.6,99,100,84,No,San Francisco County
+759,San Francisco,94114,1299000,4,3,1918.0,3.2,98,63,87,No,San Francisco County
+760,San Francisco,94133,750000,3,2,3226.0,5.6,100,61,100,No,San Francisco County
+761,San Francisco,94115,1995000,4,2,3815.0,6.7,97,81,71,Yes,San Francisco County
+762,San Francisco,94103,799000,1,1,1200.0,5.6,98,99,100,Yes,San Francisco County
+763,SAN FRANCISCO,94107,1088000,2,2,1102.0,5.6,95,95,69,Yes,San Francisco County
+764,San Francisco,94123,3495000,4,2,2530.0,6.0,99,94,67,No,San Francisco County
+765,San Francisco,94114,3895000,5,4,3872.0,5.6,96,65,64,Yes,San Francisco County
+766,San Francisco,94116,998000,2,1,1049.0,7.8,90,54,58,Yes,San Francisco County
+767,San Francisco,94133,1420000,2,2,1349.0,5.6,98,66,83,No,San Francisco County
+768,San Francisco,94117,1100000,2,2,1074.0,5.6,99,85,97,No,San Francisco County
+769,San Francisco,94122,1500000,4,2,2160.0,5.6,97,80,68,Yes,San Francisco County
+770,San Francisco,94110,1495000,4,3,2089.0174545454547,5.6,94,68,83,Yes,San Francisco County
+771,San Francisco,94109,549000,1,1,592.0,5.6,94,73,80,Yes,San Francisco County
+772,San Francisco,94131,22000000,6,7,9704.0,5.6,79,73,82,Yes,San Francisco County
+773,San Francisco,94117,999000,3,1,2530.0,8.3,96,92,73,Yes,San Francisco County
+774,San Francisco,94118,1488000,4,2,2475.0,8.3,95,91,66,No,San Francisco County
+775,SAN FRANCISCO,94127,1215000,2,1,1070.0,5.6,60,48,62,Yes,San Francisco County
+776,San Francisco,94107,1225000,2,2,959.0,5.6,94,71,70,Yes,San Francisco County
+777,San Francisco,94122,3000000,6,4,4346.0,5.6,97,78,65,Yes,San Francisco County
+778,San Francisco,94133,1350000,2,2,1156.0,5.6,99,74,81,Yes,San Francisco County
+779,San Francisco,94110,1595000,2,1,1480.0,5.6,93,57,76,Yes,San Francisco County
+780,San Francisco,94110,995000,2,1,1090.0,5.6,98,100,83,Yes,San Francisco County
+781,San Francisco,94115,929000,2,1,867.0,6.7,96,70,72,No,San Francisco County
+782,San Francisco,94109,1195000,2,2,1133.0,5.6,99,75,85,No,San Francisco County
+783,San Francisco,94133,2600000,3,2,1750.0,5.6,96,69,83,Yes,San Francisco County
+784,San Francisco,94103,1799000,2,2,2980.0,5.6,99,99,100,No,San Francisco County
+785,SAN FRANCISCO,94115,2250000,3,2,2292.0,5.6,98,77,78,No,San Francisco County
+786,San Francisco,94109,714996,2,2,1034.0,5.6,100,79,85,No,San Francisco County
+787,San Francisco,94115,3995000,5,3,4005.0,6.0,96,61,82,Yes,San Francisco County
+788,San Francisco,94102,789000,2,2,1004.0,6.5,99,99,100,No,San Francisco County
+789,San Francisco,94131,3295000,4,3,2940.0,5.6,87,68,82,No,San Francisco County
+790,San Francisco,94158,1495000,2,2,1071.0,5.6,91,92,80,No,San Francisco County
+791,San Francisco,94124,899000,5,2,2100.0,5.6,75,41,63,Yes,San Francisco County
+792,San Francisco,94123,1050000,1,1,841.0,6.5,87,96,64,Yes,San Francisco County
+793,San Francisco,94131,2895000,4,3,2261.0,5.6,86,55,68,No,San Francisco County
+794,San Francisco,94117,2750000,5,2,3100.0,5.6,97,73,77,No,San Francisco County
+795,San Francisco,94131,1295000,4,2,1445.0,5.6,86,71,84,No,San Francisco County
+796,San Francisco,94115,1795000,3,2,1680.0,5.6,95,94,74,Yes,San Francisco County
+797,San Francisco,94112,1095000,2,1,1060.0,6.3,83,81,83,Yes,San Francisco County
+798,San Francisco,94132,1808000,3,2,1880.0,7.0,78,70,53,Yes,San Francisco County
+799,San Francisco,94118,2750000,4,3,1973.0,8.3,96,74,70,Yes,San Francisco County
+800,SAN MATEO,94402,3198000,6,4,4549.0,7.0,84,74,44,Yes,San Mateo County
+801,HILLSBOROUGH,94010,14999000,6,4,5030.0,7.7,58,48,41,Yes,San Mateo County
+802,SAN MATEO,94402,3099000,4,3,2840.0,7.0,24,28,21,Yes,San Mateo County
+803,SAN MATEO,94401,2098000,4,3,2149.0,5.0,95,69,47,No,San Mateo County
+804,SAN MATEO,94403,3770000,4,3,2751.0,5.3,82,51,43,Yes,San Mateo County
+805,SAN MATEO,94402,1668000,2,2,1700.0,6.3,75,80,41,Yes,San Mateo County
+806,San Mateo,94403,2299990,3,2,1917.0,7.0,50,75,40,Yes,San Mateo County
+807,SAN MATEO,94403,2530000,4,3,2880.0,7.7,72,76,33,Yes,San Mateo County
+808,SAN MATEO,94403,1999999,3,2,1830.0,5.3,22,8,29,Yes,San Mateo County
+809,SAN MATEO,94404,1098000,2,2,1200.0,5.6,60,74,30,Yes,San Mateo County
+810,SAN MATEO,94404,1350000,2,2,1230.0,5.6,68,75,31,Yes,San Mateo County
+811,San Mateo,94401,1595000,5,4,2420.0,7.7,50,70,33,Yes,San Mateo County
+812,SAN MATEO,94401,2500000,4,3,2651.0,5.0,86,69,43,Yes,San Mateo County
+813,SAN MATEO,94403,1889000,5,3,2485.0,5.3,94,61,50,Yes,San Mateo County
+814,San Mateo,94403,1749990,3,2,1912.0,7.0,50,75,40,Yes,San Mateo County
+815,San Mateo,94401,1798000,5,4,2500.0,6.2,44,72,27,Yes,San Mateo County
+816,SAN MATEO,94402,2389000,3,2,1490.0,7.0,12,21,41,Yes,San Mateo County
+817,SAN MATEO,94401,1850000,4,2,2405.0,6.3,88,95,45,Yes,San Mateo County
+818,SAN MATEO,94401,1098000,2,1,1150.0,5.3,73,59,31,Yes,San Mateo County
+819,San Mateo,94403,799888,2,2,1040.0,8.2,83,73,42,No,San Mateo County
+820,SAN MATEO,94401,299000,1,2,1112.0,5.0,95,69,47,Yes,San Mateo County
+821,SAN MATEO,94401,650000,2,2,1429.0,5.0,95,69,47,Yes,San Mateo County
+822,SAN MATEO,94401,600000,1,1,693.0,5.3,84,67,35,Yes,San Mateo County
+823,SAN MATEO,94402,1748000,2,2,1732.0,6.3,95,61,46,Yes,San Mateo County
+824,SAN MATEO,94402,2995000,4,4,2183.0,7.0,66,65,41,Yes,San Mateo County
+825,SAN MATEO,94401,1089888,2,2,1230.0,6.2,77,85,34,Yes,San Mateo County
+826,SAN MATEO,94402,1439990,2,1,1250.0,6.3,81,82,42,Yes,San Mateo County
+827,FOSTER CITY,94404,1298000,2,2,1530.0,7.7,76,68,41,Yes,San Mateo County
+828,Foster City,94404,1199999,2,2,1230.0,7.7,74,64,41,Yes,San Mateo County
+829,BELMONT,94002,1988888,3,2,1870.0,9.0,34,22,41,Yes,San Mateo County
+830,SAN MATEO,94402,1599950,4,2,2770.0,6.3,84,89,44,Yes,San Mateo County
+831,SAN MATEO,94402,1795000,2,2,1050.0,6.3,87,71,46,Yes,San Mateo County
+832,SAN MATEO,94401,1080000,2,1,820.0,6.2,81,85,38,Yes,San Mateo County
+833,SAN MATEO,94403,1895000,3,2,1860.0,6.0,67,40,41,Yes,San Mateo County
+834,SAN MATEO,94401,1975000,3,3,1695.0,5.3,97,85,47,Yes,San Mateo County
+835,SAN MATEO,94403,2128000,6,6,5624.0,5.7,80,76,45,No,San Mateo County
+836,SAN MATEO,94403,2595000,8,8,5750.0,6.3,84,68,45,Yes,San Mateo County
+837,SAN MATEO,94402,1998000,3,2,1720.0,7.0,77,72,43,Yes,San Mateo County
+838,SAN MATEO,94402,2895000,2,2,2400.0,7.0,98,65,46,Yes,San Mateo County
+839,SAN MATEO,94402,1150000,2,2,1238.0,6.3,95,61,46,Yes,San Mateo County
+840,SAN MATEO,94402,1800000,2,2,1732.0,6.3,95,61,46,Yes,San Mateo County
+841,SAN MATEO,94402,2590000,3,2,2270.0,7.0,16,14,17,Yes,San Mateo County
+842,SAN MATEO,94401,350000,2,2,1100.0,5.0,95,69,47,Yes,San Mateo County
+843,SAN MATEO,94402,9250000,6,6,5855.0,5.0,46,37,35,Yes,San Mateo County
+844,SAN MATEO,94402,2750000,3,2,2448.0,5.0,41,34,45,Yes,San Mateo County
+845,SAN MATEO,94401,799000,2,2,913.0,6.2,81,85,33,Yes,San Mateo County
+846,SAN MATEO,94403,1385000,2,1,1040.0,5.3,86,41,46,Yes,San Mateo County
+847,SAN MATEO,94402,1450000,2,1,1140.0,6.3,89,95,44,Yes,San Mateo County
+848,SAN MATEO,94402,1980000,2,3,1698.0,6.3,95,61,46,Yes,San Mateo County
+849,SAN MATEO,94403,2589000,4,4,2470.0,5.3,73,47,43,Yes,San Mateo County
+850,Hillsborough,94010,5600000,4,3,3510.0,7.7,21,27,41,Yes,San Mateo County
+851,SAN MATEO,94403,2200000,4,3,2460.0,5.3,77,57,44,Yes,San Mateo County
+852,SAN MATEO,94401,948000,1,2,1095.0,6.3,98,84,47,Yes,San Mateo County
+853,SAN MATEO,94402,4000000,4,3,3060.0,5.0,70,54,39,Yes,San Mateo County
+854,SAN MATEO,94403,1180000,3,2,1292.0,6.0,58,33,38,No,San Mateo County
+855,San Mateo,94403,1599990,3,3,1798.0,7.0,50,75,40,Yes,San Mateo County
+856,SAN MATEO,94403,900000,2,2,1176.0,5.3,91,66,50,Yes,San Mateo County
+857,SAN MATEO,94401,295000,2,2,1140.0,5.0,95,69,47,Yes,San Mateo County
+858,BURLINGAME,94010,2048000,2,2,1693.0,8.0,79,74,41,Yes,San Mateo County
+859,SAN MATEO,94401,550000,2,2,1400.0,5.0,95,69,47,Yes,San Mateo County
+860,SAN MATEO,94402,1068888,2,2,1416.0,7.0,90,63,44,Yes,San Mateo County
+861,SAN MATEO,94401,1750000,7,6,2264.0,5.3,90,83,47,Yes,San Mateo County
+862,SAN MATEO,94403,1948000,4,2,2387.0,5.3,90,65,50,Yes,San Mateo County
+863,SAN MATEO,94401,725000,2,2,1400.0,5.0,95,69,47,Yes,San Mateo County
+864,SAN MATEO,94401,629000,2,1,750.0,6.2,77,85,34,Yes,San Mateo County
+865,SAN MATEO,94403,639000,1,1,812.0,8.2,78,69,43,No,San Mateo County
+866,FOSTER CITY,94404,949000,2,2,1350.0,5.6,76,68,41,Yes,San Mateo County
+867,SAN MATEO,94404,649000,1,1,702.0,5.6,63,76,30,Yes,San Mateo County
+868,San Mateo,94401,565000,1,1,667.0,5.0,92,76,41,Yes,San Mateo County
+869,San Mateo,94403,786000,2,1,892.0,6.0,57,52,40,Yes,San Mateo County
+870,SAN MATEO,94401,1325000,2,2,2200.0,5.7,94,86,46,Yes,San Mateo County
+871,SAN MATEO,94401,650000,2,2,1400.0,5.0,95,69,47,Yes,San Mateo County
+872,SAN MATEO,94401,239000,1,1,800.0,5.0,95,69,47,Yes,San Mateo County
+873,SAN MATEO,94403,2588000,5,4,2820.0,5.7,69,73,44,Yes,San Mateo County
+874,SAN MATEO,94402,1050000,2,2,1292.0,6.3,95,61,46,Yes,San Mateo County
+875,BURLINGAME,94010,3200000,2,1,2647.0,8.0,92,75,41,Yes,San Mateo County
+876,BELMONT,94002,375000,3,2,7450.0,9.0,6,5,41,No,San Mateo County
+877,BELMONT,94002,1798000,3,2,1550.0,9.0,10,7,41,Yes,San Mateo County
+878,SAN MATEO,94401,1698000,3,2,1750.0,6.3,82,73,43,Yes,San Mateo County
+879,HILLSBOROUGH,94010,4958000,4,3,2990.0,8.3,17,19,41,Yes,San Mateo County
+880,SAN MATEO,94402,995000,2,2,1101.0,5.0,70,53,42,Yes,San Mateo County
+881,SAN MATEO,94401,329000,1,1,1000.0,5.0,95,69,47,Yes,San Mateo County
+882,SAN MATEO,94402,2965000,4,2,3040.0,7.0,5,29,41,Yes,San Mateo County
+883,San Mateo,94403,2399990,4,2,2244.0,7.0,50,75,40,Yes,San Mateo County
+884,SAN MATEO,94403,1250000,3,1,1140.0,6.3,69,79,43,Yes,San Mateo County
+885,SAN MATEO,94403,2950000,4,3,2357.0,5.3,49,34,37,Yes,San Mateo County
+886,SAN MATEO,94401,280000,1,1,930.0,5.0,95,69,47,Yes,San Mateo County
+887,San Mateo,94403,1434990,3,2,1500.0,7.0,50,75,40,Yes,San Mateo County
+888,SAN MATEO,94401,679000,2,1,903.0,5.3,79,67,34,Yes,San Mateo County
+889,SAN MATEO,94403,980000,2,1,1190.0,7.0,38,72,39,Yes,San Mateo County
+890,FOSTER CITY,94404,1298000,2,2,1470.0,5.6,65,73,30,Yes,San Mateo County
+891,SAN MATEO,94402,3298888,4,3,2455.0,7.0,8,17,41,Yes,San Mateo County
+892,SAN MATEO,94401,685000,2,2,908.0,5.0,92,76,41,Yes,San Mateo County
+893,SAN MATEO,94401,359000,2,2,1100.0,5.0,95,69,47,Yes,San Mateo County
+894,SAN MATEO,94403,1199000,3,2,1320.0,5.6,92,68,47,Yes,San Mateo County
+895,SAN MATEO,94401,360000,1,2,1112.0,5.0,95,69,47,Yes,San Mateo County
+896,SAN MATEO,94401,249000,1,1,1000.0,5.0,95,69,47,Yes,San Mateo County
+897,BELMONT,94002,375000,3,2,2089.0174545454547,9.0,6,5,21,No,San Mateo County
+898,BURLINGAME,94010,2998000,3,2,2455.0,8.0,82,70,41,Yes,San Mateo County
+899,SAN MATEO,94403,2498000,4,3,1836.0,5.3,44,23,36,Yes,San Mateo County
+900,SAN MATEO,94401,1599999,4,2,2060.0,5.0,82,69,39,No,San Mateo County
+901,SAN MATEO,94402,2799000,5,3,2760.0,7.0,48,34,35,Yes,San Mateo County
+902,SAN MATEO,94401,665000,2,2,1429.0,5.0,95,69,47,Yes,San Mateo County
+903,SAN MATEO,94402,5000000,4,3,3570.0,5.0,46,37,35,Yes,San Mateo County
+904,SAN MATEO,94402,1460000,3,2,1770.0,7.0,42,22,31,Yes,San Mateo County
+905,SAN MATEO,94402,1575000,2,2,2036.0,5.0,76,50,44,Yes,San Mateo County
+906,SAN MATEO,94401,299000,2,1,981.0,5.0,95,69,47,Yes,San Mateo County
+907,SAN MATEO,94402,2150000,3,2,2200.0,6.3,76,85,42,Yes,San Mateo County
+908,SAN MATEO,94403,1799000,4,3,1750.0,6.3,67,76,43,Yes,San Mateo County
+909,BURLINGAME,94010,5500000,9,8,5652.0,8.0,94,77,41,Yes,San Mateo County
+910,SAN MATEO,94402,2398000,2,2,1660.0,5.0,58,43,36,Yes,San Mateo County
+911,SAN MATEO,94402,9500000,4,4,6169.0,5.0,12,15,15,Yes,San Mateo County
+912,SAN MATEO,94402,1850000,4,2,1540.0,6.3,75,83,43,Yes,San Mateo County
+913,San Mateo,94403,1639990,3,3,1775.0,7.0,50,75,40,Yes,San Mateo County
+914,SAN MATEO,94401,3380000,3,3,2190.0,5.0,83,65,41,Yes,San Mateo County
+915,BURLINGAME,94010,1388888,2,2,1040.0,8.0,92,76,41,No,San Mateo County
+916,SAN MATEO,94403,675000,1,1,840.0,8.2,77,74,42,Yes,San Mateo County
+917,SAN MATEO,94401,149000,2,2,1140.0,5.0,95,69,47,Yes,San Mateo County
+918,SAN MATEO,94401,275000,1,1,1000.0,5.0,95,69,47,Yes,San Mateo County
+919,SAN MATEO,94403,1080000,2,1,1190.0,7.0,38,72,39,Yes,San Mateo County
+920,SAN MATEO,94401,219000,1,1,968.0,5.0,95,69,47,Yes,San Mateo County
+921,SAN MATEO,94402,3450000,4,2,3220.0,5.0,55,42,39,Yes,San Mateo County
+922,San Mateo,94401,1700000,5,3,3212.0,5.0,82,69,41,No,San Mateo County
+923,SAN MATEO,94401,249500,1,1,800.0,5.0,95,69,47,Yes,San Mateo County
+924,BURLINGAME,94010,2999000,4,2,2704.0,8.0,96,80,41,Yes,San Mateo County
+925,SAN MATEO,94402,6850000,3,3,4050.0,5.0,49,37,37,Yes,San Mateo County
+926,SAN MATEO,94401,450000,2,2,1300.0,5.0,95,69,47,Yes,San Mateo County
+927,SAN MATEO,94403,1498000,2,2,1380.0,6.3,82,79,50,Yes,San Mateo County
+928,Foster City,94404,1290000,2,2,2224.0,7.7,63,81,41,Yes,San Mateo County
+929,BELMONT,94002,1688000,3,2,2089.0174545454547,9.0,7,4,41,No,San Mateo County
+930,SAN MATEO,94401,720000,2,2,1400.0,5.0,95,69,47,Yes,San Mateo County
+931,SAN MATEO,94403,597000,1,1,690.0,7.0,63,81,37,Yes,San Mateo County
+932,SAN MATEO,94404,1388000,3,2,1580.0,6.2,61,76,32,Yes,San Mateo County
+933,SAN MATEO,94401,499000,2,2,1300.0,5.0,95,69,47,Yes,San Mateo County
+934,SAN MATEO,94403,2195000,6,5,3642.0,7.0,62,81,36,No,San Mateo County
+935,SAN MATEO,94403,1648880,4,2,1960.0,7.0,54,75,42,No,San Mateo County
+936,SAN MATEO,94403,1300000,3,2,1060.0,7.0,54,75,42,Yes,San Mateo County
+937,SAN MATEO,94401,260000,1,1,981.0,5.0,95,69,47,Yes,San Mateo County
+938,SAN MATEO,94402,2599000,4,2,1750.0,7.0,13,28,41,Yes,San Mateo County
+939,San Mateo,94401,629000,1,1,693.0,5.3,72,67,33,Yes,San Mateo County
+940,BELMONT,94002,149000,3,2,2089.0174545454547,9.0,6,5,41,No,San Mateo County
+941,San Mateo,94401,1198888,2,2,1287.0,6.3,96,88,46,No,San Mateo County
+942,BELMONT,94002,1998000,3,2,1890.0,9.0,4,8,41,Yes,San Mateo County
+943,BURLINGAME,94010,3990000,3,2,8625.0,8.0,96,78,41,Yes,San Mateo County
+944,SAN MATEO,94401,1388000,4,2,970.0,5.6,77,82,37,Yes,San Mateo County
+945,SAN MATEO,94403,1800000,5,3,2638.0,7.0,40,71,37,No,San Mateo County
+946,SAN MATEO,94401,1850000,3,3,2336.0,6.3,89,93,45,Yes,San Mateo County
+947,BELMONT,94002,19750000,56,49,43760.0,9.0,77,30,42,No,San Mateo County
+948,MOUNTAIN VIEW,94043,595000,1,1,720.0,7.0,55,89,48,No,Santa Clara County
+949,GILROY,95020,640000,3,2,1293.0,4.7,58,53,41,Yes,Santa Clara County
+950,GILROY,95020,175000,2,1,800.0,4.8,57,71,41,No,Santa Clara County
+951,Sunnyvale,94087,1280000,3,2,1280.0,7.7,65,84,36,Yes,Santa Clara County
+952,Gilroy,95020,998000,4,3,2671.0,5.6,44,70,41,Yes,Santa Clara County
+953,LOS GATOS,95033,750000,3,2,2089.0174545454547,5.6,6,4,41,No,Santa Clara County
+954,LOS GATOS,95030,5178000,5,5,4247.0,8.6,70,62,41,Yes,Santa Clara County
+955,San Jose,95122,1150000,3,2,1292.0,5.6,53,53,48,Yes,Santa Clara County
+956,MOUNTAIN VIEW,94043,2099000,4,2,1903.0,8.0,58,90,39,Yes,Santa Clara County
+957,SAN JOSE,95127,1275000,4,2,1342.0,2.0,17,22,41,Yes,Santa Clara County
+958,SAN JOSE,95126,799000,1,1,540.0,4.7,79,84,50,No,Santa Clara County
+959,LOS GATOS,95032,928000,2,2,1334.0,7.5,57,71,35,Yes,Santa Clara County
+960,SAN JOSE,95126,860000,2,2,1311.0,4.0,86,82,56,Yes,Santa Clara County
+961,SAN JOSE,95134,285000,2,2,1245.0,7.0,33,59,33,No,Santa Clara County
+962,SUNNYVALE,94086,2190000,3,2,1952.0,6.0,75,89,51,Yes,Santa Clara County
+963,LOS GATOS,95032,2399000,4,3,1820.0,8.6,85,83,41,No,Santa Clara County
+964,SAN JOSE,95122,999900,4,2,1283.0,3.0,68,57,48,Yes,Santa Clara County
+965,SAN JOSE,95117,1998888,3,2,1712.0,5.3,59,65,40,Yes,Santa Clara County
+966,San Jose,95110,895000,3,2,1668.0,5.0,80,86,57,Yes,Santa Clara County
+967,MORGAN HILL,95037,2888888,5,3,4133.0,5.7,10,7,32,Yes,Santa Clara County
+968,SAN JOSE,95121,300000,2,2,1680.0,6.0,79,70,39,No,Santa Clara County
+969,SAN JOSE,95118,1299000,3,2,1232.0,4.7,72,70,26,Yes,Santa Clara County
+970,SAN JOSE,95128,315800,2,2,1440.0,5.6,51,77,47,No,Santa Clara County
+971,PALO ALTO,94306,2100000,3,1,1476.0,8.3,70,98,41,Yes,Santa Clara County
+972,GILROY,95020,599000,3,1,1176.0,4.5,90,82,41,No,Santa Clara County
+973,LOS GATOS,95033,475000,3,2,2089.0174545454547,8.7,0,49,41,No,Santa Clara County
+974,LOS ALTOS,94024,3095000,3,3,2044.0,9.0,3,11,41,Yes,Santa Clara County
+975,SAN JOSE,95123,1229888,3,1,1037.0,6.3,51,56,45,Yes,Santa Clara County
+976,SUNNYVALE,94087,2899000,7,6,3780.0,8.0,75,92,42,No,Santa Clara County
+977,LOS ALTOS,94024,3288000,4,2,1868.0,8.3,37,64,24,Yes,Santa Clara County
+978,SAN JOSE,95123,1400000,3,2,1617.0,6.7,28,17,35,Yes,Santa Clara County
+979,SAN JOSE,95136,1599000,4,2,2124.0,4.7,24,67,41,Yes,Santa Clara County
+980,PALO ALTO,94303,2498000,3,2,1683.0,8.3,53,91,26,Yes,Santa Clara County
+981,SAN JOSE,95123,1598888,4,2,1321.0,7.3,45,61,33,Yes,Santa Clara County
+982,SAN JOSE,95134,295000,2,2,1440.0,7.0,27,80,51,No,Santa Clara County
+983,SAN JOSE,95112,1025000,5,4,2003.0,3.3,87,93,68,No,Santa Clara County
+984,SAN JOSE,95125,2300000,3,2,3288.0,5.7,90,76,40,Yes,Santa Clara County
+985,Sunnyvale,94085,999000,3,1,851.0,4.7,72,80,41,No,Santa Clara County
+986,LOS ALTOS,94024,9500000,4,6,4971.0,9.0,39,36,41,Yes,Santa Clara County
+987,SAN JOSE,95128,748800,2,2,1216.0,4.8,75,79,48,Yes,Santa Clara County
+988,San Jose,95136,799900,1,1,1012.0,3.7,37,51,43,Yes,Santa Clara County
+989,SARATOGA,95070,3500000,3,2,1993.0,8.2,33,27,41,Yes,Santa Clara County
+990,LOS ALTOS,94022,2249000,1,1,1156.0,8.7,86,94,26,Yes,Santa Clara County
+991,SAN JOSE,95131,998000,2,2,1371.0,7.0,42,67,57,Yes,Santa Clara County
+992,SAN JOSE,95116,698000,2,2,1091.0,5.6,63,58,55,Yes,Santa Clara County
+993,SAN JOSE,95148,1688888,5,2,2697.0,4.5,21,8,14,Yes,Santa Clara County
+994,SANTA CLARA,95050,1399000,3,2,1080.0,6.0,64,78,42,Yes,Santa Clara County
+995,GILROY,95020,598000,3,2,2089.0174545454547,5.0,12,29,41,No,Santa Clara County
+996,San Jose,95123,1299000,3,2,1576.0,5.0,59,57,17,Yes,Santa Clara County
+997,SAN JOSE,95117,999000,3,2,1360.0,6.3,74,70,41,Yes,Santa Clara County
+998,SAN JOSE,95124,2398000,4,3,2130.0,8.7,29,39,41,Yes,Santa Clara County
+999,SUNNYVALE,94089,240000,2,2,1460.0,7.0,39,77,45,No,Santa Clara County
+1000,CAMPBELL,95008,1879000,3,2,1326.0,7.5,28,71,27,Yes,Santa Clara County
+1001,SAN JOSE,95118,1050000,3,2,1232.0,4.7,37,50,32,Yes,Santa Clara County
+1002,SAN JOSE,95123,699000,2,1,852.0,5.0,68,72,32,Yes,Santa Clara County
+1003,San Jose,95124,1799000,4,2,2048.0,7.8,72,71,38,Yes,Santa Clara County
+1004,Santa Clara,95050,1498000,3,2,1170.0,6.0,51,79,35,No,Santa Clara County
+1005,SAN JOSE,95135,499000,1,1,947.0,8.2,14,35,25,No,Santa Clara County
+1006,PALO ALTO,94301,3595000,3,2,2114.0,7.7,55,85,36,No,Santa Clara County
+1007,SAN JOSE,95111,849000,2,1,1410.0,3.0,47,62,51,Yes,Santa Clara County
+1008,LOS GATOS,95032,2550000,3,1,1500.0,8.6,83,83,41,Yes,Santa Clara County
+1009,SARATOGA,95070,6998000,5,4,4699.0,9.2,26,32,41,Yes,Santa Clara County
+1010,MENLO PARK,94025,4788000,4,5,3157.0,7.3,72,80,38,Yes,San Mateo County
+1011,SANTA CLARA,95051,2650000,10,6,3961.0,7.0,75,82,27,Yes,Santa Clara County
+1012,SUNNYVALE,94085,1199000,3,3,1150.0,4.7,21,70,46,Yes,Santa Clara County
+1013,Cupertino,95014,2590000,3,2,1661.0,9.3,65,66,26,Yes,Santa Clara County
+1014,SAN JOSE,95126,1399000,2,2,1194.0,4.7,83,79,51,Yes,Santa Clara County
+1015,MORGAN HILL,95037,1150000,4,2,2472.0,5.3,0,8,41,Yes,Santa Clara County
+1016,SAN JOSE,95138,1699000,4,2,2060.0,5.7,6,26,16,Yes,Santa Clara County
+1017,San Jose,95136,1050000,3,3,1690.0,3.7,38,27,31,Yes,Santa Clara County
+1018,SAN JOSE,95123,1199000,3,2,1546.0,4.3,43,61,40,Yes,Santa Clara County
+1019,SANTA CLARA,95051,1498000,3,3,1600.0,6.7,56,69,38,Yes,Santa Clara County
+1020,SAN JOSE,95123,275000,2,2,1440.0,4.7,50,68,40,No,Santa Clara County
+1021,LOS ALTOS,94022,9399000,5,4,6308.0,8.3,65,84,40,Yes,Santa Clara County
+1022,SAN JOSE,95138,1249900,2,2,1590.0,8.3,2,35,0,Yes,Santa Clara County
+1023,San Jose,95112,1049000,4,2,1230.0,3.3,80,78,57,Yes,Santa Clara County
+1024,MONTE SERENO,95030,5195000,5,3,3900.0,8.6,65,51,41,Yes,Santa Clara County
+1025,MOUNTAIN VIEW,94041,2388000,5,3,2338.0,7.0,70,99,51,Yes,Santa Clara County
+1026,SARATOGA,95070,3500000,4,2,2225.0,8.2,25,19,41,Yes,Santa Clara County
+1027,SAN JOSE,95131,1428880,4,2,1843.0,7.0,56,70,54,Yes,Santa Clara County
+1028,SAN JOSE,95140,3899000,5,3,3782.0,3.3,5,1,41,Yes,Santa Clara County
+1029,SAN JOSE,95126,1999999,4,2,1926.0,4.7,73,81,49,Yes,Santa Clara County
+1030,SAN JOSE,95128,2300000,3,3,1858.0,4.7,67,80,42,Yes,Santa Clara County
+1031,SAN JOSE,95148,1698000,3,2,1798.0,7.7,13,23,18,Yes,Santa Clara County
+1032,SAN JOSE,95111,289900,3,2,1230.0,3.8,67,60,44,No,Santa Clara County
+1033,Sunnyvale,94086,1750000,5,2,2021.0,7.3,85,84,50,Yes,Santa Clara County
+1034,SAN JOSE,95148,1459888,4,2,2199.0,5.7,68,60,48,Yes,Santa Clara County
+1035,SAN JOSE,95118,655000,2,1,810.0,4.7,69,73,27,Yes,Santa Clara County
+1036,SAN JOSE,95111,1099000,5,4,1992.0,3.7,9,61,44,Yes,Santa Clara County
+1037,Palo Alto,94303,5680000,4,3,3253.0,8.3,35,89,27,Yes,Santa Clara County
+1038,PALO ALTO,94301,2700000,3,2,1729.0,8.0,71,88,45,No,Santa Clara County
+1039,SAN JOSE,95124,1599999,3,2,1569.0,6.3,27,60,34,Yes,Santa Clara County
+1040,MONTE SERENO,95030,4995000,4,3,3588.0,8.6,65,51,41,Yes,Santa Clara County
+1041,SAN JOSE,95135,1598888,3,2,2201.0,8.2,1,15,11,Yes,Santa Clara County
+1042,MOUNTAIN VIEW,94043,895000,2,1,1000.0,7.3,61,92,35,No,Santa Clara County
+1043,SAN JOSE,95136,1198000,3,2,1303.0,3.7,42,62,41,Yes,Santa Clara County
+1044,San Jose,95116,699999,2,2,1142.0,5.6,76,64,55,Yes,Santa Clara County
+1045,SAN JOSE,95123,599000,2,1,997.0,5.5,70,58,45,No,Santa Clara County
+1046,MORGAN HILL,95037,1099000,3,2,1575.0,6.3,65,67,34,Yes,Santa Clara County
+1047,MORGAN HILL,95037,2198800,3,3,3719.0,6.0,2,12,41,Yes,Santa Clara County
+1048,SAN JOSE,95125,1998000,4,2,2234.0,5.6,63,75,46,Yes,Santa Clara County
+1049,PALO ALTO,94306,1690000,1,1,672.0,8.0,81,99,43,Yes,Santa Clara County
+1050,SANTA CLARA,95051,799999,2,2,1041.0,7.0,72,70,40,Yes,Santa Clara County
+1051,SAN JOSE,95135,879900,2,2,1509.0,8.2,0,11,0,Yes,Santa Clara County
+1052,SUNNYVALE,94089,1350000,3,2,1108.0,5.7,68,87,43,Yes,Santa Clara County
+1053,SAN JOSE,95125,1698000,3,2,1408.0,6.3,48,69,38,Yes,Santa Clara County
+1054,SAN JOSE,95121,865000,3,2,1508.0,6.0,38,57,37,Yes,Santa Clara County
+1055,SUNNYVALE,94089,395000,3,2,1643.0,7.0,52,74,45,No,Santa Clara County
+1056,Sunnyvale,94085,1338888,3,1,1315.0,4.7,64,74,42,Yes,Santa Clara County
+1057,SAN JOSE,95120,1199000,3,2,1354.0,8.3,62,63,27,Yes,Santa Clara County
+1058,SUNNYVALE,94085,489900,3,1,1800.0,5.0,31,60,45,No,Santa Clara County
+1059,SANTA CLARA,95051,690000,3,2,974.0,6.3,34,71,35,No,Santa Clara County
+1060,CAMPBELL,95008,1798000,4,2,1785.0,6.7,65,74,37,Yes,Santa Clara County
+1061,SAN JOSE,95110,839999,3,1,1148.0,4.5,69,61,47,Yes,Santa Clara County
+1062,CAMPBELL,95008,1569950,3,2,1728.0,7.5,29,62,27,Yes,Santa Clara County
+1063,CAMPBELL,95008,1798000,3,2,1248.0,6.3,50,77,38,Yes,Santa Clara County
+1064,San Jose,95132,1388000,3,2,1634.0,6.7,77,59,39,Yes,Santa Clara County
+1065,SAN JOSE,95125,1175000,2,2,1641.0,6.3,70,76,41,Yes,Santa Clara County
+1066,SAN JOSE,95111,1067888,3,2,1593.0,3.0,70,67,44,Yes,Santa Clara County
+1067,San Jose,95148,1170000,3,2,1040.0,6.2,23,55,30,Yes,Santa Clara County
+1068,MOUNTAIN VIEW,94043,1998000,4,3,2498.0,7.7,78,99,32,Yes,Santa Clara County
+1069,SUNNYVALE,94085,1488888,3,3,1743.0,6.3,60,81,31,Yes,Santa Clara County
+1070,SAN JOSE,95136,1549000,5,3,2236.0,3.7,44,70,47,Yes,Santa Clara County
+1071,MOUNTAIN VIEW,94040,190000,2,1,900.0,8.0,76,92,39,No,Santa Clara County
+1072,CAMPBELL,95008,625000,1,1,895.0,7.3,82,82,46,Yes,Santa Clara County
+1073,SAN JOSE,95122,538888,2,1,953.0,4.0,39,58,41,Yes,Santa Clara County
+1074,SUNNYVALE,94089,430000,3,2,1620.0,7.0,51,85,47,No,Santa Clara County
+1075,MILPITAS,95035,848888,3,2,1174.0,8.3,25,56,37,No,Santa Clara County
+1076,LOS ALTOS HILLS,94022,7198000,4,4,4831.0,8.3,0,13,41,Yes,Santa Clara County
+1077,SAN JOSE,95123,1150000,3,2,1593.0,5.0,59,57,17,Yes,Santa Clara County
+1078,SAN JOSE,95112,849000,2,1,878.0,3.8,52,78,48,Yes,Santa Clara County
+1079,Gilroy,95020,818000,3,2,1080.0,3.7,60,72,41,Yes,Santa Clara County
+1080,SAN JOSE,95123,1650000,5,4,2427.0,6.3,45,61,43,Yes,Santa Clara County
+1081,Milpitas,95035,1249999,2,2,1459.0,8.3,60,76,38,Yes,Santa Clara County
+1082,PALO ALTO,94301,998000,2,1,776.0,8.0,90,100,58,Yes,Santa Clara County
+1083,PALO ALTO,94303,2850000,4,2,1607.0,8.0,61,81,27,No,Santa Clara County
+1084,LOS GATOS,95032,2948000,6,4,3144.0,7.8,39,44,41,Yes,Santa Clara County
+1085,SAN JOSE,95125,2599000,4,2,2884.0,5.7,64,73,40,Yes,Santa Clara County
+1086,SARATOGA,95070,2998000,3,3,3134.0,9.2,0,49,41,Yes,Santa Clara County
+1087,SAN JOSE,95123,525888,2,1,959.0,5.5,58,52,46,No,Santa Clara County
+1088,MILPITAS,95035,775000,2,2,1146.0,7.3,80,82,61,Yes,Santa Clara County
+1089,LOS GATOS,95033,995000,2,1,1229.0,8.4,14,9,41,Yes,Santa Clara County
+1090,MOUNTAIN VIEW,94043,578000,1,1,720.0,7.0,77,97,49,Yes,Santa Clara County
+1091,MORGAN HILL,95037,1799950,3,2,2909.0,5.3,0,13,41,Yes,Santa Clara County
+1092,LOS ALTOS HILLS,94024,4995000,4,3,2591.0,9.0,1,10,41,Yes,Santa Clara County
+1093,LOS GATOS,95032,1750000,3,3,2122.0,8.6,42,57,41,Yes,Santa Clara County
+1094,San Jose,95127,1598000,4,3,2216.0,3.3,12,6,41,Yes,Santa Clara County
+1095,SAN JOSE,95117,2199000,4,2,2317.0,6.3,52,64,40,Yes,Santa Clara County
+1096,SAN JOSE,95128,1399000,4,3,1789.0,4.7,75,66,50,Yes,Santa Clara County
+1097,SAN JOSE,95123,1258000,4,2,1345.0,6.3,58,61,45,Yes,Santa Clara County
+1098,SAN JOSE,95128,859000,2,2,1022.0,5.3,80,68,41,Yes,Santa Clara County
+1099,GILROY,95020,1475000,5,3,2771.0,4.7,5,44,41,Yes,Santa Clara County
+1100,Milpitas,95035,1299900,3,3,1550.0,8.0,44,56,33,Yes,Santa Clara County
+1101,SANTA CLARA,95050,899000,3,2,1163.0,5.7,75,83,43,Yes,Santa Clara County
+1102,SAN JOSE,95125,1799000,3,2,1584.0,5.7,71,76,37,Yes,Santa Clara County
+1103,SAN JOSE,95120,1250000,3,2,1470.0,8.0,22,52,19,Yes,Santa Clara County
+1104,SAN JOSE,95125,1699000,3,2,1632.0,6.3,70,69,28,Yes,Santa Clara County
+1105,SAN JOSE,95127,1395888,4,2,2293.0,4.0,8,13,0,Yes,Santa Clara County
+1106,SAN JOSE,95136,775000,2,2,1067.0,3.7,37,51,43,Yes,Santa Clara County
+1107,SAN JOSE,95110,758888,1,1,953.0,4.3,88,90,73,Yes,Santa Clara County
+1108,Vallejo,94589,220000,1,1,706.0,2.5,33,14,34,No,Solano County
+1109,Vallejo,94591,550000,3,2,1918.0,4.0,58,21,25,Yes,Solano County
+1110,Vacaville,95688,499900,2,1,780.0,5.8,85,51,29,Yes,Solano County
+1111,Vacaville,95687,499900,3,2,1313.0,5.5,28,61,24,Yes,Solano County
+1112,Fairfield,94534,695000,3,2,1651.0,5.2,24,41,30,Yes,Solano County
+1113,Vacaville,95688,1500000,5,3,3886.0,5.7,0,9,41,Yes,Solano County
+1114,Fairfield,94533,559900,3,2,1287.0,3.0,52,50,26,Yes,Solano County
+1115,Vallejo,94590,550000,4,2,1814.0,5.6,90,59,47,Yes,Solano County
+1116,Vallejo,94590,650000,5,2,2119.0,5.6,80,63,38,Yes,Solano County
+1117,Vallejo,94591,340000,1,1,665.0,5.6,4,23,20,Yes,Solano County
+1118,Fairfield,94533,325000,2,1,825.0,3.0,67,47,29,No,Solano County
+1119,Vacaville,95687,559000,3,2,1547.0,5.0,27,40,12,Yes,Solano County
+1120,Fairfield,94533,490000,3,1,1220.0,3.7,79,61,33,Yes,Solano County
+1121,Vacaville,95688,739900,4,3,2380.0,5.8,37,8,20,Yes,Solano County
+1122,Fairfield,94533,715455,5,3,2471.0,6.3,10,37,17,Yes,Solano County
+1123,Fairfield,94533,515000,3,2,1198.0,3.3,5,32,0,Yes,Solano County
+1124,Vallejo,94591,625000,4,2,1845.0,4.0,50,17,28,Yes,Solano County
+1125,Vallejo,94589,325000,2,1,1100.0,2.5,46,22,36,Yes,Solano County
+1126,Fairfield,94534,520000,2,1,1072.0,7.7,11,44,25,Yes,Solano County
+1127,Suisun City,94585,569999,4,2,1569.0,4.0,27,50,41,Yes,Solano County
+1128,VACAVILLE,95688,499999,3,2,1600.0,5.2,67,61,29,Yes,Solano County
+1129,Vallejo,94591,720000,3,2,1639.0,5.6,31,16,41,Yes,Solano County
+1130,Vallejo,94590,799000,2,1,1130.0,5.6,25,8,23,Yes,Solano County
+1131,Vacaville,95688,750000,5,2,2548.0,5.7,21,40,16,Yes,Solano County
+1132,Rio Vista,94571,495000,2,2,2031.0,5.0,2,25,41,Yes,Solano County
+1133,Fairfield,94534,799900,4,3,2356.0,7.7,22,42,19,Yes,Solano County
+1134,Dixon,95620,669000,3,3,1759.0,5.3,33,34,41,Yes,Solano County
+1135,Vallejo,94590,526000,3,2,931.0,5.6,80,61,38,No,Solano County
+1136,Benicia,94510,405000,2,1,1087.0,6.3,36,30,41,No,Solano County
+1137,Vacaville,95687,332500,2,1,860.0,4.5,71,49,26,Yes,Solano County
+1138,Vacaville,95687,599000,4,2,1952.0,6.3,30,33,23,Yes,Solano County
+1139,Vacaville,95687,509990,3,2,1370.0,5.5,48,65,25,Yes,Solano County
+1140,Vacaville,95687,629900,3,3,1951.0,6.0,7,28,12,Yes,Solano County
+1141,Fairfield,94533,220000,3,2,1440.0,3.3,22,34,0,No,Solano County
+1142,Vallejo,94591,925000,4,3,2830.0,5.6,19,28,0,Yes,Solano County
+1143,Dixon,95620,480000,3,2,1318.0,5.3,68,48,41,Yes,Solano County
+1144,Fairfield,94533,689835,4,3,2168.0,6.3,10,37,17,Yes,Solano County
+1145,Fairfield,94533,699900,4,2,2430.0,6.3,1,34,0,Yes,Solano County
+1146,Vallejo,94589,599900,3,2,1690.0,5.6,11,27,24,Yes,Solano County
+1147,VALLEJO,94591,847140,5,3,2846.0,5.6,54,34,20,Yes,Solano County
+1148,Dixon,95620,719888,4,2,2509.0,4.3,46,49,41,Yes,Solano County
+1149,Vallejo,94591,539900,3,2,1516.0,3.7,43,19,27,Yes,Solano County
+1150,Fairfield,94533,530000,3,2,1524.0,3.7,84,59,33,Yes,Solano County
+1151,Rio Vista,94571,435000,2,2,1439.0,5.0,2,25,41,Yes,Solano County
+1152,Vacaville,95688,549000,3,2,1294.0,5.2,54,58,26,Yes,Solano County
+1153,Suisun City,94585,599000,4,2,1916.0,3.3,18,32,41,Yes,Solano County
+1154,Vallejo,94592,788000,4,2,2746.0,5.6,30,30,31,Yes,Solano County
+1155,Benicia,94510,1295000,4,3,2424.0,6.3,75,51,41,Yes,Solano County
+1156,Vallejo,94589,539900,3,2,1104.0,5.6,59,42,29,Yes,Solano County
+1157,Vacaville,95687,189900,2,2,1440.0,5.6,66,67,24,No,Solano County
+1158,Vallejo,94589,520000,3,2,1394.0,2.5,60,28,31,Yes,Solano County
+1159,Vallejo,94591,549000,3,2,1355.0,5.6,19,14,24,Yes,Solano County
+1160,Fairfield,94533,599000,4,2,1920.0,6.3,5,35,0,Yes,Solano County
+1161,Vacaville,95687,629900,4,2,1952.0,6.3,33,34,23,Yes,Solano County
+1162,Rio Vista,94571,599000,2,2,1837.0,5.0,0,28,41,Yes,Solano County
+1163,Vacaville,95687,75000,2,1,720.0,4.5,59,61,23,No,Solano County
+1164,Benicia,94510,625000,2,2,1055.0,6.3,14,25,41,Yes,Solano County
+1165,Vacaville,95687,550000,3,2,1607.0,6.0,29,33,21,Yes,Solano County
+1166,Vallejo,94590,539900,3,2,1533.0,2.7,51,46,30,Yes,Solano County
+1167,Vacaville,95687,575000,4,2,1430.0,5.0,48,36,23,Yes,Solano County
+1168,Benicia,94510,265000,3,2,1440.0,6.3,75,63,41,No,Solano County
+1169,Fairfield,94533,667800,4,3,2030.0,6.3,16,37,17,Yes,Solano County
+1170,Dixon,95620,768950,3,2,2629.0,5.3,26,28,41,Yes,Solano County
+1171,Vallejo,94590,529000,3,2,1504.0,2.7,74,45,32,Yes,Solano County
+1172,Suisun City,94585,549000,4,2,1532.0,4.0,15,41,41,Yes,Solano County
+1173,Rio Vista,94571,665000,2,2,2204.0,5.0,6,25,41,Yes,Solano County
+1174,Fairfield,94534,1595000,3,3,3787.0,7.7,10,7,41,Yes,Solano County
+1175,Vacaville,95687,425000,2,2,1152.0,5.5,15,54,22,Yes,Solano County
+1176,FAIRFIELD,94534,989000,5,3,3415.0,6.7,12,37,12,Yes,Solano County
+1177,Vallejo,94589,469000,3,2,1358.0,5.6,21,25,28,Yes,Solano County
+1178,Fairfield,94533,680620,4,3,2168.0,6.3,10,37,17,Yes,Solano County
+1179,Benicia,94510,818000,3,2,1365.0,6.3,57,18,41,Yes,Solano County
+1180,Fairfield,94533,721515,5,3,2471.0,6.3,10,37,17,Yes,Solano County
+1181,Fairfield,94533,525000,4,2,1563.0,3.0,54,59,30,Yes,Solano County
+1182,Vacaville,95687,639000,4,2,1967.0,5.0,36,37,21,Yes,Solano County
+1183,Vacaville,95687,645990,4,3,1998.0,5.6,3,36,10,Yes,Solano County
+1184,Vacaville,95688,618000,4,2,1482.0,5.8,60,30,23,Yes,Solano County
+1185,Benicia,94510,159900,2,2,1536.0,6.3,75,63,41,No,Solano County
+1186,Davis,95616,87000,2,1,780.0,6.0,40,80,41,No,Solano County
+1187,Vacaville,95687,515000,3,2,1671.0,6.3,49,37,24,Yes,Solano County
+1188,Fairfield,94533,549500,3,2,1900.0,3.3,61,59,27,Yes,Solano County
+1189,Benicia,94510,650000,3,2,1630.0,6.3,59,17,41,Yes,Solano County
+1190,Suisun City,94585,628000,4,3,2216.0,3.3,7,40,41,Yes,Solano County
+1191,Fairfield,94533,649990,3,2,1701.0,4.0,8,31,0,Yes,Solano County
+1192,Suisun City,94585,565000,4,2,1890.0,3.7,38,49,41,Yes,Solano County
+1193,Vacaville,95687,485000,3,2,1247.0,4.5,57,58,20,Yes,Solano County
+1194,Vacaville,95688,995000,6,4,3262.0,5.7,16,6,15,Yes,Solano County
+1195,Vacaville,95687,595000,4,2,1830.0,5.0,19,31,12,Yes,Solano County
+1196,Benicia,94510,997000,4,3,2216.0,6.3,8,6,41,Yes,Solano County
+1197,Vallejo,94591,775000,4,3,2362.0,3.7,11,9,22,Yes,Solano County
+1198,Fairfield,94533,395000,4,2,1349.0,3.0,32,39,30,Yes,Solano County
+1199,Rio Vista,94571,591900,3,3,2395.0,5.0,0,32,41,Yes,Solano County
+1200,Fairfield,94533,489888,3,2,980.0,3.7,77,61,32,No,Solano County
+1201,VACAVILLE,95688,706580,4,3,1942.0,5.2,37,48,22,Yes,Solano County
+1202,Davis,95616,60000,3,1,640.0,6.0,53,88,41,No,Solano County
+1203,Vacaville,95688,769000,4,3,2403.0,5.7,16,27,14,Yes,Solano County
+1204,FAIRFIELD,94533,749900,4,3,2415.0,6.3,0,49,0,Yes,Solano County
+1205,Fairfield,94533,555000,3,2,1635.0,3.7,44,48,36,Yes,Solano County
+1206,Fairfield,94533,666340,4,3,2030.0,6.3,10,37,17,Yes,Solano County
+1207,Vacaville,95687,530000,2,2,1345.0,5.5,25,49,16,Yes,Solano County
+1208,Vacaville,95687,635000,3,2,1633.0,6.0,8,28,12,Yes,Solano County
+1209,Vacaville,95688,695000,4,1,1116.0,5.7,7,29,41,No,Solano County
+1210,Rio Vista,94571,435000,2,2,1475.0,5.0,8,25,41,Yes,Solano County
+1211,Vallejo,94591,511000,2,2,1167.0,4.0,32,29,21,Yes,Solano County
+1212,Vacaville,95687,623700,2,2,1744.0,5.5,30,52,24,Yes,Solano County
+1213,Vacaville,95687,725000,3,2,1835.0,5.0,8,26,6,Yes,Solano County
+1214,Vallejo,94590,439000,4,2,1702.0,5.6,56,47,32,No,Solano County
+1215,Vallejo,94591,599999,3,2,1519.0,5.6,36,15,41,Yes,Solano County
+1216,Vallejo,94590,639900,4,2,2694.0,2.7,68,44,31,Yes,Solano County
+1217,Vallejo,94591,230000,3,2,8712.0,5.6,41,26,41,No,Solano County
+1218,Vacaville,95687,519000,3,1,960.0,4.5,45,59,22,Yes,Solano County
+1219,Vallejo,94591,694000,4,3,2296.0,4.0,61,40,27,Yes,Solano County
+1220,Vacaville,95687,585000,4,2,1290.0,6.0,20,31,22,Yes,Solano County
+1221,Vacaville,95687,510000,2,2,1323.0,5.5,29,50,22,Yes,Solano County
+1222,Fairfield,94533,700000,4,2,2654.0,3.3,46,43,26,Yes,Solano County
+1223,Vallejo,94590,579000,2,1,952.0,5.6,67,50,41,No,Solano County
+1224,Vallejo,94591,439950,3,1,1008.0,3.7,72,51,28,Yes,Solano County
+1225,Vacaville,95688,780000,4,3,2745.0,5.0,9,32,14,Yes,Solano County
+1226,Vallejo,94590,785000,3,2,1670.0,3.0,57,27,34,Yes,Solano County
+1227,Rio Vista,94571,509900,3,2,1837.0,5.0,0,33,41,Yes,Solano County
+1228,Vacaville,95687,604000,3,2,1767.0,5.5,10,50,18,Yes,Solano County
+1229,Vallejo,94591,839000,4,3,2652.0,5.6,21,21,0,Yes,Solano County
+1230,Vallejo,94591,650000,3,2,2185.0,4.0,11,26,23,Yes,Solano County
+1231,Rio Vista,94571,699800,5,2,2566.0,5.0,56,42,41,Yes,Solano County
+1232,Vallejo,94590,488000,4,2,1222.0,5.6,66,58,32,Yes,Solano County
+1233,Fairfield,94533,687260,4,3,2168.0,6.3,10,37,17,Yes,Solano County
+1234,Vacaville,95688,925000,3,2,1640.0,5.0,0,33,41,Yes,Solano County
+1235,Vacaville,95687,629950,2,2,1659.0,5.0,17,33,12,Yes,Solano County
+1236,Vacaville,95688,998888,5,2,3482.0,5.7,5,7,22,Yes,Solano County
+1237,Vacaville,95687,394000,2,2,1152.0,5.5,25,47,15,Yes,Solano County
+1238,Fairfield,94534,915000,4,3,2905.0,7.7,11,12,29,Yes,Solano County
+1239,Suisun City,94585,475000,3,2,1560.0,3.7,25,36,41,Yes,Solano County
+1240,Vallejo,94591,869000,4,3,2120.0,3.7,1,3,21,Yes,Solano County
+1241,Vacaville,95687,569950,3,2,1604.0,6.0,63,46,24,Yes,Solano County
+1242,Vacaville,95688,615000,3,2,1428.0,5.8,83,51,28,Yes,Solano County
+1243,Vacaville,95688,710000,4,3,1898.0,5.7,15,17,23,Yes,Solano County
+1244,Rio Vista,94571,469000,2,2,1913.0,5.0,4,23,41,Yes,Solano County
+1245,Vallejo,94589,449000,3,1,1332.0,2.5,61,39,32,Yes,Solano County
+1246,Dixon,95620,560000,3,2,1688.0,4.3,58,47,41,Yes,Solano County
+1247,Vallejo,94589,450000,3,2,1316.0,5.6,50,27,27,Yes,Solano County
+1248,Fairfield,94533,725990,5,3,2311.0,4.0,5,36,0,Yes,Solano County
+1249,Dixon,95620,899000,3,2,2089.0174545454547,4.3,0,38,41,No,Solano County
+1250,Fairfield,94533,225000,2,1,805.0,3.0,33,46,28,No,Solano County
+1251,VACAVILLE,95687,620000,4,3,1803.0,6.0,12,29,12,Yes,Solano County
+1252,Fairfield,94533,499000,4,2,2180.0,3.3,55,60,29,Yes,Solano County
+1253,Benicia,94510,825000,3,2,1442.0,6.3,63,52,41,Yes,Solano County
+1254,Vacaville,95687,450000,3,1,1266.0,4.5,66,67,24,Yes,Solano County
+1255,Vallejo,94590,309000,3,1,988.0,5.6,66,47,34,No,Solano County
+1256,Benicia,94510,499000,3,1,1197.0,6.3,50,14,41,Yes,Solano County
+1257,Vallejo,94591,568000,3,1,1132.0,3.7,72,50,28,Yes,Solano County
+1258,Vallejo,94591,748888,4,3,2580.0,5.6,10,4,0,Yes,Solano County
+1259,Vacaville,95687,540000,3,2,1479.0,4.5,58,69,23,Yes,Solano County
+1260,Vallejo,94591,385000,2,2,1014.0,5.6,4,23,20,Yes,Solano County
+1261,Dixon,95620,770000,5,4,2667.0,5.3,36,33,41,Yes,Solano County
+1262,Vacaville,95688,494500,3,1,945.0,5.2,42,53,25,Yes,Solano County
+1263,Fairfield,94534,864900,5,3,3450.0,5.2,40,25,22,Yes,Solano County
+1264,Fairfield,94533,640000,4,3,2569.0,4.0,17,37,17,Yes,Solano County
+1265,Vallejo,94591,799000,5,2,2491.0,3.7,55,27,27,Yes,Solano County
+1266,Vallejo,94591,688000,3,2,1746.0,5.6,30,17,20,Yes,Solano County
+1267,Vallejo,94591,599999,5,2,2319.0,3.7,61,50,27,Yes,Solano County
+1268,Glen Ellen,95442,749000,4,2,1296.0,3.3,5,23,41,Yes,Sonoma County
+1269,Petaluma,94952,1019990,4,3,2132.0,6.7,20,13,26,Yes,Sonoma County
+1270,Monte Rio,95462,299000,2,1,1220.0,5.6,36,10,41,Yes,Sonoma County
+1271,Santa Rosa,95403,699500,3,2,1404.0,5.6,29,35,41,Yes,Sonoma County
+1272,Forestville,95436,295000,3,2,2089.0174545454547,5.6,1,6,41,No,Sonoma County
+1273,Sonoma,95476,4695000,6,5,5438.0,3.3,7,8,41,Yes,Sonoma County
+1274,Geyserville,95441,1625250,2,1,1047.0,5.6,0,49,41,Yes,Sonoma County
+1275,Rohnert Park,94928,399000,2,2,878.0,3.8,23,58,41,No,Sonoma County
+1276,Petaluma,94952,749500,3,2,1421.0,6.0,60,69,39,Yes,Sonoma County
+1277,Santa Rosa,95403,1300000,5,4,2941.0,4.2,9,33,41,Yes,Sonoma County
+1278,Santa Rosa,95409,999000,4,3,3218.0,6.5,55,32,23,Yes,Sonoma County
+1279,Glen Ellen,95442,1995000,3,2,2510.0,3.3,28,28,41,Yes,Sonoma County
+1280,Sebastopol,95472,1349000,4,3,2800.0,6.0,26,21,41,Yes,Sonoma County
+1281,Santa Rosa,95401,299000,2,2,1440.0,5.6,15,54,27,No,Sonoma County
+1282,Petaluma,94954,1030900,3,3,2077.0,4.5,52,66,25,Yes,Sonoma County
+1283,Petaluma,94954,874950,3,2,1628.0,5.3,27,50,26,Yes,Sonoma County
+1284,Healdsburg,95448,1795000,3,2,2067.0,5.3,8,3,41,Yes,Sonoma County
+1285,Santa Rosa,95404,1499900,4,3,3317.0,4.3,2,5,13,Yes,Sonoma County
+1286,Santa Rosa,95409,155000,2,2,1440.0,6.4,14,39,20,No,Sonoma County
+1287,Glen Ellen,95442,3400000,4,4,3000.0,3.3,0,5,41,Yes,Sonoma County
+1288,Sonoma,95476,825000,3,2,1135.0,3.3,37,53,41,Yes,Sonoma County
+1289,Santa Rosa,95404,1077000,3,3,2392.0,6.2,42,30,26,Yes,Sonoma County
+1290,The Sea Ranch,95497,1049000,2,2,1572.0,5.6,2,2,41,No,Sonoma County
+1291,Santa Rosa,95409,156000,2,2,1000.0,6.2,59,48,24,No,Sonoma County
+1292,Sonoma,95476,1829000,3,2,1890.0,3.3,93,63,41,Yes,Sonoma County
+1293,Sebastopol,95472,1999950,3,4,3649.0,5.6,5,29,41,Yes,Sonoma County
+1294,Sonoma,95476,1187000,3,1,2600.0,5.0,27,38,41,Yes,Sonoma County
+1295,Healdsburg,95448,649000,2,2,1320.0,5.3,3,13,41,No,Sonoma County
+1296,Sonoma,95476,619500,3,1,1000.0,4.3,48,42,41,Yes,Sonoma County
+1297,Santa Rosa,95404,1800000,4,2,2839.0,4.3,83,69,28,No,Sonoma County
+1298,Annapolis,95412,280000,3,2,2089.0174545454547,5.6,0,1,41,No,Sonoma County
+1299,Sebastopol,95472,1069000,3,2,1771.0,6.2,58,48,41,Yes,Sonoma County
+1300,Petaluma,94954,4795000,4,3,4200.0,6.3,6,11,41,Yes,Sonoma County
+1301,Sonoma,95476,149000,2,1,800.0,3.3,25,47,41,No,Sonoma County
+1302,Santa Rosa,95404,400000,2,1,911.0,3.0,73,60,42,No,Sonoma County
+1303,Petaluma,94954,759850,4,2,1324.0,4.7,49,62,30,Yes,Sonoma County
+1304,Sonoma,95476,3400000,3,2,2237.0,5.0,19,35,41,Yes,Sonoma County
+1305,Petaluma,94952,1395000,4,1,1768.0,6.7,43,29,25,Yes,Sonoma County
+1306,Santa Rosa,95401,670000,3,2,1474.0,5.6,50,54,20,Yes,Sonoma County
+1307,Santa Rosa,95405,1195000,5,4,2657.0,4.0,52,54,21,Yes,Sonoma County
+1308,Santa Rosa,95409,699000,2,2,1411.0,6.7,13,33,18,Yes,Sonoma County
+1309,Santa Rosa,95409,689000,3,2,1955.0,7.2,19,26,18,Yes,Sonoma County
+1310,Santa Rosa,95403,725000,2,2,1571.0,4.3,4,10,19,Yes,Sonoma County
+1311,Windsor,95492,229000,2,2,2175.0,5.6,57,59,41,No,Sonoma County
+1312,Santa Rosa,95407,499000,2,2,1242.0,5.6,63,77,29,Yes,Sonoma County
+1313,Sonoma,95476,690000,1,1,1550.0,3.3,31,39,41,No,Sonoma County
+1314,Santa Rosa,95401,1499000,2,3,2618.0,5.6,9,16,41,Yes,Sonoma County
+1315,Santa Rosa,95403,775000,4,3,1928.0,3.0,27,36,21,Yes,Sonoma County
+1316,Santa Rosa,95404,2100000,4,3,3196.0,4.3,1,9,13,Yes,Sonoma County
+1317,The Sea Ranch,95480,8000000,5,3,4650.0,5.6,0,15,41,Yes,Sonoma County
+1318,Windsor,95492,307500,3,2,1040.0,5.6,36,38,41,No,Sonoma County
+1319,Santa Rosa,95404,725000,2,2,1460.0,5.2,54,18,41,Yes,Sonoma County
+1320,Santa Rosa,95405,655000,3,1,915.0,4.0,83,70,29,Yes,Sonoma County
+1321,Santa Rosa,95409,625000,2,2,1391.0,7.2,24,50,19,Yes,Sonoma County
+1322,Santa Rosa,95404,669000,3,2,1277.0,3.0,41,37,24,Yes,Sonoma County
+1323,Santa Rosa,95409,529000,2,2,1400.0,7.2,13,40,19,Yes,Sonoma County
+1324,Sonoma,95476,699000,2,2,1650.0,5.0,6,36,41,Yes,Sonoma County
+1325,Cotati,94931,2495000,4,3,3016.0,3.2,9,21,41,Yes,Sonoma County
+1326,Santa Rosa,95403,665000,3,2,1293.0,2.3,52,48,23,Yes,Sonoma County
+1327,Santa Rosa,95404,649000,2,1,653.0,5.2,0,6,41,Yes,Sonoma County
+1328,Santa Rosa,95404,375000,3,2,2089.0174545454547,4.3,6,2,14,No,Sonoma County
+1329,Petaluma,94954,799000,3,2,2072.0,5.8,56,57,28,Yes,Sonoma County
+1330,Santa Rosa,95404,700000,3,2,2089.0174545454547,4.2,2,3,41,No,Sonoma County
+1331,Petaluma,94954,749900,3,1,1036.0,5.8,78,85,35,Yes,Sonoma County
+1332,Cloverdale,95425,90000,1,1,299.0,5.6,2,49,41,No,Sonoma County
+1333,Sonoma,95476,479000,3,2,9696.0,5.0,48,53,41,No,Sonoma County
+1334,Santa Rosa,95404,849000,3,2,2380.0,3.0,41,37,20,Yes,Sonoma County
+1335,Santa Rosa,95401,850000,6,4,3612.0,3.0,81,73,39,No,Sonoma County
+1336,Santa Rosa,95404,395000,2,1,864.0,3.0,60,54,28,No,Sonoma County
+1337,Petaluma,94952,949000,2,2,1208.0,6.3,67,45,30,Yes,Sonoma County
+1338,Santa Rosa,95407,515000,2,2,1210.0,5.6,63,77,29,Yes,Sonoma County
+1339,Sonoma,95476,1575000,2,2,1469.0,3.3,5,36,41,Yes,Sonoma County
+1340,Sebastopol,95472,349900,2,1,800.0,5.6,29,43,41,Yes,Sonoma County
+1341,Santa Rosa,95409,1275000,8,4,2800.0,6.2,53,60,21,No,Sonoma County
+1342,Bodega Bay,94923,1500000,3,2,1838.0,5.6,1,13,41,Yes,Sonoma County
+1343,Monte Rio,95462,899000,2,2,1062.0,5.6,12,14,41,Yes,Sonoma County
+1344,Santa Rosa,95409,675000,4,2,1516.0,6.2,37,61,22,Yes,Sonoma County
+1345,Healdsburg,95448,599000,3,2,2089.0174545454547,5.3,0,20,41,No,Sonoma County
+1346,Rohnert Park,94928,649950,4,2,1648.0,4.0,17,60,41,Yes,Sonoma County
+1347,Santa Rosa,95401,649000,3,2,1508.0,3.0,77,71,39,Yes,Sonoma County
+1348,Santa Rosa,95404,1235000,4,3,2657.0,4.3,41,30,22,Yes,Sonoma County
+1349,Petaluma,94952,700000,2,2,1091.0,6.0,54,40,30,Yes,Sonoma County
+1350,Windsor,95492,625000,2,2,1025.0,5.6,79,71,41,Yes,Sonoma County
+1351,Petaluma,94952,1109990,5,3,2510.0,6.7,17,12,26,Yes,Sonoma County
+1352,Petaluma,94952,1160000,4,2,1916.0,5.6,13,20,21,Yes,Sonoma County
+1353,Healdsburg,95448,2498000,3,2,1316.0,5.3,6,1,41,Yes,Sonoma County
+1354,Petaluma,94952,1695000,4,3,2288.0,6.0,31,15,26,Yes,Sonoma County
+1355,Sonoma,95476,869000,3,2,1324.0,3.3,53,59,41,Yes,Sonoma County
+1356,Santa Rosa,95404,274950,3,2,1128.0,2.8,66,55,31,No,Sonoma County
+1357,Windsor,95492,803450,3,2,1785.0,5.6,63,48,41,Yes,Sonoma County
+1358,Windsor,95492,799000,4,2,1912.0,5.6,23,51,41,Yes,Sonoma County
+1359,Santa Rosa,95403,950000,3,3,1914.0,2.0,38,64,21,Yes,Sonoma County
+1360,Guerneville,95446,595000,2,1,828.0,5.6,20,11,41,No,Sonoma County
+1361,Santa Rosa,95404,319000,3,2,2089.0174545454547,4.3,1,9,13,No,Sonoma County
+1362,Guerneville,95446,1595000,3,2,5200.0,5.6,13,4,41,No,Sonoma County
+1363,Guerneville,95446,1400000,3,2,9178.0,5.6,58,47,41,No,Sonoma County
+1364,Windsor,95492,899000,4,3,1821.0,5.6,58,66,41,Yes,Sonoma County
+1365,Santa Rosa,95409,590000,2,2,1230.0,6.7,14,33,19,Yes,Sonoma County
+1366,Petaluma,94952,559000,1,1,560.0,6.0,90,54,42,Yes,Sonoma County
+1367,Penngrove,94951,1250000,3,2,1512.0,6.0,0,5,41,Yes,Sonoma County
+1368,Santa Rosa,95403,290000,3,2,2089.0174545454547,4.3,2,3,11,No,Sonoma County
+1369,Petaluma,94952,3400000,6,4,4103.0,5.6,16,16,41,Yes,Sonoma County
+1370,The Sea Ranch,95497,4500000,2,3,2601.0,5.6,1,4,41,Yes,Sonoma County
+1371,Healdsburg,95448,599000,1,2,884.0,5.3,5,19,41,Yes,Sonoma County
+1372,Guerneville,95446,499000,3,2,1252.0,5.6,4,1,41,No,Sonoma County
+1373,Cotati,94931,1195000,3,3,2670.0,5.6,63,31,41,Yes,Sonoma County
+1374,Santa Rosa,95409,899999,3,2,1637.0,6.2,42,57,20,Yes,Sonoma County
+1375,Sonoma,95476,769000,2,2,1532.0,5.0,4,36,41,Yes,Sonoma County
+1376,Petaluma,94952,1250000,2,2,1550.0,5.6,16,25,41,No,Sonoma County
+1377,Santa Rosa,95403,699000,3,1,1508.0,2.3,62,50,24,Yes,Sonoma County
+1378,Santa Rosa,95401,1600000,7,5,3565.0,3.0,93,72,48,Yes,Sonoma County
+1379,Petaluma,94954,1250000,3,3,1917.0,6.3,5,24,41,Yes,Sonoma County
+1380,Santa Rosa,95401,465900,3,2,1176.0,5.6,23,56,27,Yes,Sonoma County
+1381,Sonoma,95476,889000,3,2,1700.0,3.3,73,75,41,Yes,Sonoma County
+1382,Santa Rosa,95407,635000,3,2,1200.0,5.6,44,47,23,Yes,Sonoma County
+1383,Guerneville,95446,499000,2,1,1138.0,5.6,9,3,41,Yes,Sonoma County
+1384,Rohnert Park,94928,775000,3,2,2182.0,3.8,41,53,41,Yes,Sonoma County
+1385,Petaluma,94954,299000,2,2,1440.0,5.0,24,50,33,No,Sonoma County
+1386,Windsor,95492,700000,3,2,1220.0,5.6,72,59,41,Yes,Sonoma County
+1387,Monte Rio,95462,729000,3,2,1156.0,5.6,46,25,41,No,Sonoma County
+1388,Petaluma,94952,1589000,3,2,2286.0,5.7,4,14,41,Yes,Sonoma County
+1389,Graton,95444,1250000,1,1,2575.0,5.6,47,47,41,No,Sonoma County
+1390,Santa Rosa,95405,1249450,4,3,2736.0,4.2,33,37,28,Yes,Sonoma County
+1391,Windsor,95492,768000,3,2,1631.0,5.6,35,37,41,Yes,Sonoma County
+1392,Petaluma,94952,775000,3,2,1404.0,6.0,32,22,24,Yes,Sonoma County
+1393,Santa Rosa,95405,949000,4,3,2278.0,5.2,41,17,19,Yes,Sonoma County
+1394,Camp Meeker,95419,595000,2,1,1064.0,5.6,7,49,41,Yes,Sonoma County
+1395,Santa Rosa,95409,715000,2,2,1591.0,6.7,14,32,19,Yes,Sonoma County
+1396,Sonoma,95476,1150000,1,1,972.0,3.3,45,52,41,Yes,Sonoma County
+1397,Petaluma,94954,715000,2,2,1137.0,5.8,44,54,31,Yes,Sonoma County
+1398,Santa Rosa,95405,675000,3,2,1918.0,5.2,48,49,20,Yes,Sonoma County
+1399,Santa Rosa,95404,1575000,3,3,2483.0,4.2,0,3,41,Yes,Sonoma County
+1400,Santa Rosa,95404,969000,5,2,2444.0,4.3,11,11,15,Yes,Sonoma County
+1401,Healdsburg,95448,3995000,3,2,2089.0174545454547,5.3,5,12,41,No,Sonoma County
+1402,Santa Rosa,95407,1900000,3,1,1344.0,5.6,1,29,41,Yes,Sonoma County
+1403,Santa Rosa,95407,225000,3,2,2089.0174545454547,5.6,38,41,41,No,Sonoma County
+1404,Santa Rosa,95409,1289000,3,2,2659.0,6.7,2,6,16,Yes,Sonoma County
+1405,Petaluma,94952,899000,3,2,1338.0,6.0,30,20,22,Yes,Sonoma County
+1406,Guerneville,95446,1250000,2,2,2089.0174545454547,5.6,4,1,41,Yes,Sonoma County
+1407,Glen Ellen,95442,9900000,3,2,5653.0,3.3,23,25,41,No,Sonoma County
+1408,Cloverdale,95425,545000,3,2,1252.0,5.6,74,52,41,Yes,Sonoma County
+1409,Petaluma,94954,725000,4,2,1536.0,5.8,63,65,32,Yes,Sonoma County
+1410,Windsor,95492,799000,3,2,1815.0,5.6,23,51,41,Yes,Sonoma County
+1411,Santa Rosa,95409,779000,3,2,1708.0,6.4,54,43,24,Yes,Sonoma County
+1412,Petaluma,94954,349000,3,2,1360.0,5.0,20,47,33,No,Sonoma County
+1413,Santa Rosa,95404,789000,3,3,2098.0,2.7,22,43,15,Yes,Sonoma County
+1414,Sonoma,95476,2099000,5,4,3660.0,5.0,27,45,41,Yes,Sonoma County
+1415,Santa Rosa,95409,180000,2,2,960.0,6.2,59,48,24,No,Sonoma County
+1416,Healdsburg,95448,800000,3,2,1900.0,5.3,44,45,41,Yes,Sonoma County
+1417,Sonoma,95476,10750000,4,4,5749.0,3.3,0,19,41,Yes,Sonoma County
+1418,Sonoma,95476,695000,3,1,2089.0174545454547,3.3,40,57,41,Yes,Sonoma County
+1419,Santa Rosa,95404,1499000,3,2,1900.0,5.2,0,5,41,Yes,Sonoma County
+1420,Sebastopol,95472,875000,3,2,1641.0,5.6,7,18,41,Yes,Sonoma County
+1421,Rohnert Park,94928,750000,4,3,1821.0,3.8,55,63,41,Yes,Sonoma County
+1422,Petaluma,94954,335000,4,2,1715.0,5.0,27,53,33,No,Sonoma County
+1423,Sonoma,95476,525000,3,2,2089.0174545454547,3.3,6,36,41,No,Sonoma County
+1424,Forestville,95436,579000,2,2,1193.0,5.6,0,5,41,No,Sonoma County
+1425,Santa Rosa,95404,1725000,3,2,2285.0,5.2,0,4,41,Yes,Sonoma County
+1426,Guerneville,95446,850000,5,2,2048.0,5.6,17,9,41,No,Sonoma County
+1427,Geyserville,95441,1245000,5,3,1752.0,5.6,0,49,41,Yes,Sonoma County
